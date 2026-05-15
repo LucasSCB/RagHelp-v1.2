@@ -1,7 +1,7 @@
 
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import formatarNome from "../utils/FormatarNome"; // Importa a função de formatação de nome
+import formatarNome from "../utils/formatarNome"; // Importa a função de formatação de nome
 const API_URL = import.meta.env.VITE_API_URL;
 
 export default function MonsterDetails() {
