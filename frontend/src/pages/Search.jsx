@@ -2,6 +2,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import formatarNome from "../utils/formatarNome";
+const API_URL = import.meta.env.VITE_API_URL;
 
 export default function Search() {
 
@@ -21,9 +22,7 @@ export default function Search() {
 
     try {
 
-      const resposta = await fetch(
-        `http://localhost:3001/api/search/${valor}`
-      );
+     const resposta = await fetch( `${API_URL}/api/search/${valor}` );
 
       const dados = await resposta.json();
 
