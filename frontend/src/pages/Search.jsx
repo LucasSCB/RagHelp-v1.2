@@ -1,7 +1,7 @@
 
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import formatarNome from "../utils/FormatarNome";
+import formatarNome from "../utils/formatarNome";
 
 export default function Search() {
 
