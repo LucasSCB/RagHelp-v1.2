@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 
 import FormatarNome from "../utils/FormatarNome";
+const API_URL = import.meta.env.VITE_API_URL;
 
 export default function ItemDetails() {
 
@@ -15,9 +16,7 @@ export default function ItemDetails() {
 
       try {
 
-        const resposta = await fetch(
-          `http://localhost:3001/api/items/${id}`
-        );
+        const resposta = await fetch( `${API_URL}/api/items/${id}` );
 
         const dados = await resposta.json();
 
