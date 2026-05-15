@@ -1,3 +1,3 @@
 # RagHelp
 
-Apenas um guia basico para rota de farm. Ainda estamos em desenvolvimento.
+Atualização com adição da busca + rota farm
