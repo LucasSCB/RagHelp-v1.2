@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 
-import FormatarNome from "../utils/FormatarNome";
+import FormatarNome from "../utils/formatarNome";
 const API_URL = import.meta.env.VITE_API_URL;
 
 export default function ItemDetails() {
