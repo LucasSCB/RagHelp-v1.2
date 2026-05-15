@@ -2,6 +2,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import formatarNome from "../utils/FormatarNome"; // Importa a função de formatação de nome
+const API_URL = import.meta.env.VITE_API_URL;
 
 export default function MonsterDetails() {
 
@@ -13,9 +14,9 @@ export default function MonsterDetails() {
 
     async function carregar() {
 
-      const resposta = await fetch(
-        `http://localhost:3001/api/monsters/${id}`
-      );
+      const resposta = await fetch( 
+        `${API_URL}/api/monsters/${id}` 
+        );
 
       const dados = await resposta.json();
 
