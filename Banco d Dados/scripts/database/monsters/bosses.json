@@ -1,0 +1,7211 @@
+[
+  {
+    "id": 1089,
+    "name": "toad",
+    "display_name": "Toad",
+    "image": "http://db.irowiki.org/image/monster/1089.png",
+    "race": "fish",
+    "size": "medium",
+    "element": "water 1",
+    "level": "10",
+    "hp": "5,065",
+    "attack": "26 ~ 32 (1)",
+    "drops": [
+      {
+        "name": "big_ribbon",
+        "img": "http://db.irowiki.org/image/item/2244.png",
+        "rate": 0.73
+      },
+      {
+        "name": "honey",
+        "img": "http://db.irowiki.org/image/item/518.png",
+        "rate": 30
+      },
+      {
+        "name": "zircon",
+        "img": "http://db.irowiki.org/image/item/729.png",
+        "rate": 14.93
+      },
+      {
+        "name": "glass_bead",
+        "img": "http://db.irowiki.org/image/item/746.png",
+        "rate": 22.45
+      },
+      {
+        "name": "alcohol",
+        "img": "http://db.irowiki.org/image/item/970.png",
+        "rate": 1.45
+      },
+      {
+        "name": "detrimindexta",
+        "img": "http://db.irowiki.org/image/item/971.png",
+        "rate": 1.45
+      },
+      {
+        "name": "angel_s_kiss",
+        "img": "http://db.irowiki.org/image/item/5125.png",
+        "rate": 14.93
+      },
+      {
+        "name": "toad_card",
+        "img": "http://db.irowiki.org/image/item/4306.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_30_minutes",
+        "name": "comodo_field",
+        "number": 3,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/oldmap/thumb/cmd_fild03.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "geffen_field",
+        "number": 1,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/gef_fild01.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 3,
+        "name": "water_attack"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1090,
+    "name": "mastering",
+    "display_name": "Mastering",
+    "image": "http://db.irowiki.org/image/monster/1090.png",
+    "race": "plant",
+    "size": "medium",
+    "element": "water 1",
+    "level": "2",
+    "hp": "2,415",
+    "attack": "18 ~ 24 (1)",
+    "drops": [
+      {
+        "name": "unicorn_horn",
+        "img": "http://db.irowiki.org/image/item/2257.png",
+        "rate": 2.93
+      },
+      {
+        "name": "unripe_apple",
+        "img": "http://db.irowiki.org/image/item/619.png",
+        "rate": 0.73
+      },
+      {
+        "name": "pearl",
+        "img": "http://db.irowiki.org/image/item/722.png",
+        "rate": 14.93
+      },
+      {
+        "name": "angelic_guard",
+        "img": "http://db.irowiki.org/image/item/2116.png",
+        "rate": 14.93
+      },
+      {
+        "name": "apple",
+        "img": "http://db.irowiki.org/image/item/512.png",
+        "rate": 100
+      },
+      {
+        "name": "apple",
+        "img": "http://db.irowiki.org/image/item/512.png",
+        "rate": 100
+      },
+      {
+        "name": "apple_juice",
+        "img": "http://db.irowiki.org/image/item/531.png",
+        "rate": 60
+      },
+      {
+        "name": "mastering_card",
+        "img": "http://db.irowiki.org/image/item/4197.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "juno_field",
+        "number": 4,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/oldmap/thumb/yuno_fild04.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "payon_forest",
+        "number": 4,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/pay_fild04.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_30_minutes",
+        "name": "labyrinth_forest",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/prt_maze03.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_30_minutes",
+        "name": "toy_factory",
+        "number": 1,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_dun01.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 5,
+        "name": "water_attack"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1091,
+    "name": "dragon_fly",
+    "display_name": "Dragon Fly",
+    "image": "http://db.irowiki.org/image/monster/1091.png",
+    "race": "insect",
+    "size": "small",
+    "element": "wind 1",
+    "level": "8",
+    "hp": "2,400",
+    "attack": "22 ~ 27 (1)",
+    "drops": [
+      {
+        "name": "sweet_gent",
+        "img": "http://db.irowiki.org/image/item/2245.png",
+        "rate": 2.93
+      },
+      {
+        "name": "strawberry",
+        "img": "http://db.irowiki.org/image/item/578.png",
+        "rate": 100
+      },
+      {
+        "name": "amethyst",
+        "img": "http://db.irowiki.org/image/item/719.png",
+        "rate": 22.45
+      },
+      {
+        "name": "chonchon_doll",
+        "img": "http://db.irowiki.org/image/item/742.png",
+        "rate": 30
+      },
+      {
+        "name": "clip",
+        "img": "http://db.irowiki.org/image/item/2607.png",
+        "rate": 44.93
+      },
+      {
+        "name": "rusty_iron",
+        "img": "http://db.irowiki.org/image/item/625.png",
+        "rate": 0.73
+      },
+      {
+        "name": "grape_juice",
+        "img": "http://db.irowiki.org/image/item/533.png",
+        "rate": 44.93
+      },
+      {
+        "name": "dragon_fly_card",
+        "img": "http://db.irowiki.org/image/item/4179.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "sograt_desert",
+        "number": 18,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/moc_fild18.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "silence_attack"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 5,
+        "name": "wind_attack"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1092,
+    "name": "vagabond_wolf",
+    "display_name": "Vagabond Wolf",
+    "image": "http://db.irowiki.org/image/monster/1092.png",
+    "race": "brute",
+    "size": "medium",
+    "element": "earth 1",
+    "level": "24",
+    "hp": "12,240",
+    "attack": "135 ~ 159 (1)",
+    "drops": [
+      {
+        "name": "western_grace",
+        "img": "http://db.irowiki.org/image/item/2248.png",
+        "rate": 2.93
+      },
+      {
+        "name": "wolf_claw",
+        "img": "http://db.irowiki.org/image/item/920.png",
+        "rate": 100
+      },
+      {
+        "name": "topaz",
+        "img": "http://db.irowiki.org/image/item/728.png",
+        "rate": 22.45
+      },
+      {
+        "name": "star_dust_blade",
+        "img": "http://db.irowiki.org/image/item/1148.png",
+        "rate": 1.45
+      },
+      {
+        "name": "angelic_cardigan",
+        "img": "http://db.irowiki.org/image/item/2521.png",
+        "rate": 14.93
+      },
+      {
+        "name": "sardonyx",
+        "img": "http://db.irowiki.org/image/item/725.png",
+        "rate": 0.13
+      },
+      {
+        "name": "monster_juice",
+        "img": "http://db.irowiki.org/image/item/626.png",
+        "rate": 0.73
+      },
+      {
+        "name": "vagabond_wolf_card",
+        "img": "http://db.irowiki.org/image/item/4183.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_30_minutes",
+        "name": "sograt_desert",
+        "number": 3,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/oldmap/thumb/moc_fild03.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_4_hours",
+        "name": "guild_dungeon_baldur",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gld_dun01.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "labyrinth_forest",
+        "number": 1,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/prt_maze01.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_30_minutes",
+        "name": "labyrinth_forest",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/prt_maze03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "consecutive_attack"
+      },
+      {
+        "level": 3,
+        "name": "earth_attack"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1093,
+    "name": "eclipse",
+    "display_name": "Eclipse",
+    "image": "http://db.irowiki.org/image/monster/1093.png",
+    "race": "brute",
+    "size": "medium",
+    "element": "neutral 3",
+    "level": "6",
+    "hp": "1,800",
+    "attack": "20 ~ 26 (1)",
+    "drops": [
+      {
+        "name": "cute_ribbon",
+        "img": "http://db.irowiki.org/image/item/2250.png",
+        "rate": 2.93
+      },
+      {
+        "name": "strawberry",
+        "img": "http://db.irowiki.org/image/item/578.png",
+        "rate": 100
+      },
+      {
+        "name": "opal",
+        "img": "http://db.irowiki.org/image/item/727.png",
+        "rate": 18
+      },
+      {
+        "name": "glass_bead",
+        "img": "http://db.irowiki.org/image/item/746.png",
+        "rate": 22.45
+      },
+      {
+        "name": "four_leaf_clover",
+        "img": "http://db.irowiki.org/image/item/706.png",
+        "rate": 0.41
+      },
+      {
+        "name": "rainbow_carrot",
+        "img": "http://db.irowiki.org/image/item/622.png",
+        "rate": 0.73
+      },
+      {
+        "name": "angelic_protection",
+        "img": "http://db.irowiki.org/image/item/2355.png",
+        "rate": 14.93
+      },
+      {
+        "name": "eclipse_card",
+        "img": "http://db.irowiki.org/image/item/4266.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_30_minutes",
+        "name": "prontera_field",
+        "number": 2,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/prt_fild02.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_30_minutes",
+        "name": "labyrinth_forest",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/prt_maze03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 3,
+        "name": "lick"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1096,
+    "name": "angeling",
+    "display_name": "Angeling",
+    "image": "http://db.irowiki.org/image/monster/1096.png",
+    "race": "angel",
+    "size": "medium",
+    "element": "holy 4",
+    "level": "20",
+    "hp": "55,000",
+    "attack": "120 ~ 195 (1)",
+    "drops": [
+      {
+        "name": "angel_wing",
+        "img": "http://db.irowiki.org/image/item/2254.png",
+        "rate": 1.45
+      },
+      {
+        "name": "scapulare",
+        "img": "http://db.irowiki.org/image/item/2324.png",
+        "rate": 0.85
+      },
+      {
+        "name": "yggdrasil_leaf",
+        "img": "http://db.irowiki.org/image/item/610.png",
+        "rate": 7.45
+      },
+      {
+        "name": "halo",
+        "img": "http://db.irowiki.org/image/item/2282.png",
+        "rate": 0.02
+      },
+      {
+        "name": "white_herb",
+        "img": "http://db.irowiki.org/image/item/509.png",
+        "rate": 30
+      },
+      {
+        "name": "yggdrasilberry",
+        "img": "http://db.irowiki.org/image/item/607.png",
+        "rate": 30
+      },
+      {
+        "name": "emperium",
+        "img": "http://db.irowiki.org/image/item/714.png",
+        "rate": 0.53
+      },
+      {
+        "name": "angeling_card",
+        "img": "http://db.irowiki.org/image/item/4054.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "juno_field",
+        "number": 3,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/yuno_fild03.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "payon_forest",
+        "number": 4,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/pay_fild04.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "toy_factory",
+        "number": 1,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/xmas_dun01.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "grampus_morph"
+      },
+      {
+        "level": 9,
+        "name": "heal"
+      },
+      {
+        "level": 5,
+        "name": "holy_attack"
+      },
+      {
+        "level": 5,
+        "name": "safety_wall"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1120,
+    "name": "ghostring",
+    "display_name": "Ghostring",
+    "image": "http://db.irowiki.org/image/monster/1120.png",
+    "race": "demon",
+    "size": "medium",
+    "element": "ghost 4",
+    "level": "18",
+    "hp": "73,300",
+    "attack": "82 ~ 122 (1)",
+    "drops": [
+      {
+        "name": "fabric",
+        "img": "http://db.irowiki.org/image/item/1059.png",
+        "rate": 79.96
+      },
+      {
+        "name": "ghost_bandana",
+        "img": "http://db.irowiki.org/image/item/2274.png",
+        "rate": 1.45
+      },
+      {
+        "name": "thief_clothes",
+        "img": "http://db.irowiki.org/image/item/2336.png",
+        "rate": 0.73
+      },
+      {
+        "name": "dead_branch",
+        "img": "http://db.irowiki.org/image/item/604.png",
+        "rate": 7.45
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 0.13
+      },
+      {
+        "name": "emperium",
+        "img": "http://db.irowiki.org/image/item/714.png",
+        "rate": 0.41
+      },
+      {
+        "name": "level_soul_strike",
+        "img": "http://db.irowiki.org/image/item/695.png",
+        "rate": 1.45
+      },
+      {
+        "name": "ghostring_card",
+        "img": "http://db.irowiki.org/image/item/4047.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "payon_forest",
+        "number": 4,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/pay_fild04.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_4_hours",
+        "name": "guild_dungeon_britoniah",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gld_dun04.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_30_minutes",
+        "name": "sunken_ship",
+        "number": 1,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/treasure01.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 4,
+        "name": "dark_breath"
+      },
+      {
+        "level": 5,
+        "name": "ghost_attack"
+      },
+      {
+        "level": 1,
+        "name": "invisible"
+      },
+      {
+        "level": 9,
+        "name": "soul_strike"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1198,
+    "name": "dark_priest",
+    "display_name": "Dark Priest",
+    "image": "http://db.irowiki.org/image/monster/1198.png",
+    "race": "demon",
+    "size": "medium",
+    "element": "undead 4",
+    "level": "79",
+    "hp": "101,992",
+    "attack": "1,238 ~ 2,037 (2)",
+    "drops": [
+      {
+        "name": "book_of_the_apocalypse",
+        "img": "http://db.irowiki.org/image/item/1557.png",
+        "rate": 0.02
+      },
+      {
+        "name": "rosary",
+        "img": "http://db.irowiki.org/image/item/2608.png",
+        "rate": 0.41
+      },
+      {
+        "name": "blue_potion",
+        "img": "http://db.irowiki.org/image/item/505.png",
+        "rate": 1.45
+      },
+      {
+        "name": "red_gemstone",
+        "img": "http://db.irowiki.org/image/item/716.png",
+        "rate": 6.73
+      },
+      {
+        "name": "hand_of_god",
+        "img": "http://db.irowiki.org/image/item/1009.png",
+        "rate": 0.73
+      },
+      {
+        "name": "glittering_jacket",
+        "img": "http://db.irowiki.org/image/item/2319.png",
+        "rate": 0.02
+      },
+      {
+        "name": "cursed_dagger",
+        "img": "http://db.irowiki.org/image/item/1241.png",
+        "rate": 0.02
+      },
+      {
+        "name": "dark_priest_card",
+        "img": "http://db.irowiki.org/image/item/4171.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 3,
+        "frequency": "after_30_minutes",
+        "name": "glast_heim_st_abbey",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gl_church.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "dark_breath"
+      },
+      {
+        "level": 10,
+        "name": "dark_cross"
+      },
+      {
+        "level": 5,
+        "name": "property_change_undead"
+      },
+      {
+        "level": 3,
+        "name": "shadow_attack"
+      },
+      {
+        "level": 1,
+        "name": "snap"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1203,
+    "name": "mysteltainn",
+    "display_name": "Mysteltainn",
+    "image": "http://db.irowiki.org/image/monster/1203.png",
+    "race": "formless",
+    "size": "large",
+    "element": "shadow 4",
+    "level": "76",
+    "hp": "33,350",
+    "attack": "1,160 ~ 1,440 (2)",
+    "drops": [
+      {
+        "name": "loki_s_whispers",
+        "img": "http://db.irowiki.org/image/item/7019.png",
+        "rate": 0.02
+      },
+      {
+        "name": "biotite",
+        "img": "http://db.irowiki.org/image/item/7297.png",
+        "rate": 22.45
+      },
+      {
+        "name": "slayer",
+        "img": "http://db.irowiki.org/image/item/1152.png",
+        "rate": 0.97
+      },
+      {
+        "name": "bastard_sword",
+        "img": "http://db.irowiki.org/image/item/1155.png",
+        "rate": 0.53
+      },
+      {
+        "name": "claymore",
+        "img": "http://db.irowiki.org/image/item/1163.png",
+        "rate": 0.02
+      },
+      {
+        "name": "steel",
+        "img": "http://db.irowiki.org/image/item/999.png",
+        "rate": 1.73
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 3.61
+      },
+      {
+        "name": "mysteltainn_card",
+        "img": "http://db.irowiki.org/image/item/4207.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "clock_tower_f",
+        "number": 4,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/c_tower4.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "clock_tower_bf",
+        "number": 4,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/alde_dun04.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_5_hours",
+        "name": "geffenia_north_east",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gefenia02.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_5_hours",
+        "name": "geffenia_north_west",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gefenia03.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_3_hours",
+        "name": "geffenia_south_east",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gefenia01.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_5_hours",
+        "name": "geffenia_south_west",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gefenia04.png"
+      },
+      {
+        "amount": 2,
+        "frequency": "after_2_hours",
+        "name": "glast_heim_f",
+        "number": 2,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gl_cas02.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "break_shield"
+      },
+      {
+        "level": 10,
+        "name": "guard"
+      },
+      {
+        "level": 1,
+        "name": "guided_attack"
+      },
+      {
+        "level": 5,
+        "name": "power_maximize"
+      },
+      {
+        "level": 3,
+        "name": "shadow_attack"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1204,
+    "name": "ogretooth",
+    "display_name": "Ogretooth",
+    "image": "http://db.irowiki.org/image/monster/1204.png",
+    "race": "formless",
+    "size": "medium",
+    "element": "shadow 3",
+    "level": "71",
+    "hp": "29,900",
+    "attack": "950 ~ 1,146 (1)",
+    "drops": [
+      {
+        "name": "old_hilt",
+        "img": "http://db.irowiki.org/image/item/7022.png",
+        "rate": 0.02
+      },
+      {
+        "name": "silver_knife_of_chastity",
+        "img": "http://db.irowiki.org/image/item/638.png",
+        "rate": 0.73
+      },
+      {
+        "name": "muscovite",
+        "img": "http://db.irowiki.org/image/item/7292.png",
+        "rate": 22.45
+      },
+      {
+        "name": "dagger",
+        "img": "http://db.irowiki.org/image/item/1214.png",
+        "rate": 0.97
+      },
+      {
+        "name": "stiletto",
+        "img": "http://db.irowiki.org/image/item/1217.png",
+        "rate": 0.53
+      },
+      {
+        "name": "steel",
+        "img": "http://db.irowiki.org/image/item/999.png",
+        "rate": 1.73
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 2.81
+      },
+      {
+        "name": "ogretooth_card",
+        "img": "http://db.irowiki.org/image/item/4254.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "clock_tower_f",
+        "number": 4,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/c_tower4.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "clock_tower_bf",
+        "number": 4,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/alde_dun04.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_3_hours",
+        "name": "geffenia_north_east",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gefenia02.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_5_hours",
+        "name": "geffenia_north_west",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gefenia03.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_5_hours",
+        "name": "geffenia_south_east",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gefenia01.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_5_hours",
+        "name": "geffenia_south_west",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gefenia04.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "glast_heim_f",
+        "number": 1,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gl_cas01.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "break_helm"
+      },
+      {
+        "level": 10,
+        "name": "guard"
+      },
+      {
+        "level": 3,
+        "name": "piercing_attack"
+      },
+      {
+        "level": 3,
+        "name": "shadow_attack"
+      },
+      {
+        "level": 10,
+        "name": "sonic_blow"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1205,
+    "name": "executioner",
+    "display_name": "Executioner",
+    "image": "http://db.irowiki.org/image/monster/1205.png",
+    "race": "formless",
+    "size": "large",
+    "element": "shadow 2",
+    "level": "65",
+    "hp": "28,980",
+    "attack": "570 ~ 950 (2)",
+    "drops": [
+      {
+        "name": "bloody_edge",
+        "img": "http://db.irowiki.org/image/item/7024.png",
+        "rate": 0.02
+      },
+      {
+        "name": "phlogopite",
+        "img": "http://db.irowiki.org/image/item/7290.png",
+        "rate": 22.45
+      },
+      {
+        "name": "rapier",
+        "img": "http://db.irowiki.org/image/item/1111.png",
+        "rate": 1.21
+      },
+      {
+        "name": "scimiter",
+        "img": "http://db.irowiki.org/image/item/1114.png",
+        "rate": 0.85
+      },
+      {
+        "name": "ring_pommel_saber",
+        "img": "http://db.irowiki.org/image/item/1125.png",
+        "rate": 0.53
+      },
+      {
+        "name": "steel",
+        "img": "http://db.irowiki.org/image/item/999.png",
+        "rate": 1.73
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 2.17
+      },
+      {
+        "name": "executioner_card",
+        "img": "http://db.irowiki.org/image/item/4250.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "clock_tower_f",
+        "number": 4,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/c_tower4.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "clock_tower_bf",
+        "number": 4,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/alde_dun04.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_5_hours",
+        "name": "geffenia_north_east",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gefenia02.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_3_hours",
+        "name": "geffenia_north_west",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gefenia03.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_5_hours",
+        "name": "geffenia_south_east",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gefenia01.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_5_hours",
+        "name": "geffenia_south_west",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gefenia04.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "break_armor"
+      },
+      {
+        "level": 10,
+        "name": "guard"
+      },
+      {
+        "level": 5,
+        "name": "power_maximize"
+      },
+      {
+        "level": 1,
+        "name": "shadow_attack"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1259,
+    "name": "gryphon",
+    "display_name": "Gryphon",
+    "image": "http://db.irowiki.org/image/monster/1259.png",
+    "race": "brute",
+    "size": "large",
+    "element": "wind 4",
+    "level": "72",
+    "hp": "27,800",
+    "attack": "880 ~ 1,260 (1)",
+    "drops": [
+      {
+        "name": "talon_of_griffon",
+        "img": "http://db.irowiki.org/image/item/7048.png",
+        "rate": 37.45
+      },
+      {
+        "name": "brigan",
+        "img": "http://db.irowiki.org/image/item/7054.png",
+        "rate": 79.96
+      },
+      {
+        "name": "soft_feather",
+        "img": "http://db.irowiki.org/image/item/7063.png",
+        "rate": 1.73
+      },
+      {
+        "name": "guisarme",
+        "img": "http://db.irowiki.org/image/item/1452.png",
+        "rate": 22.45
+      },
+      {
+        "name": "poll_axe",
+        "img": "http://db.irowiki.org/image/item/1417.png",
+        "rate": 0.02
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 2.69
+      },
+      {
+        "name": "rough_wind",
+        "img": "http://db.irowiki.org/image/item/996.png",
+        "rate": 2.17
+      },
+      {
+        "name": "gryphon_card",
+        "img": "http://db.irowiki.org/image/item/4163.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "comodo_field",
+        "number": 8,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/oldmap/thumb/cmd_fild08.png"
+      },
+      {
+        "amount": 3,
+        "frequency": "after_1_hour",
+        "name": "rachel_field",
+        "number": 1,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/ra_fild01.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_58_min_20_sec",
+        "name": "umbala_field",
+        "number": 3,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/um_fild03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "critical_slash"
+      },
+      {
+        "level": 10,
+        "name": "pierce"
+      },
+      {
+        "level": 1,
+        "name": "wind_attack"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1262,
+    "name": "mutant_dragonoid",
+    "display_name": "Mutant Dragonoid",
+    "image": "http://db.irowiki.org/image/monster/1262.png",
+    "race": "dragon",
+    "size": "large",
+    "element": "fire 2",
+    "level": "65",
+    "hp": "62,600",
+    "attack": "2,400 ~ 3,400 (4)",
+    "drops": [
+      {
+        "name": "brigan",
+        "img": "http://db.irowiki.org/image/item/7054.png",
+        "rate": 72.72
+      },
+      {
+        "name": "dragon_canine",
+        "img": "http://db.irowiki.org/image/item/1035.png",
+        "rate": 7.45
+      },
+      {
+        "name": "dragon_scale",
+        "img": "http://db.irowiki.org/image/item/1036.png",
+        "rate": 7.45
+      },
+      {
+        "name": "rotten_bandage",
+        "img": "http://db.irowiki.org/image/item/930.png",
+        "rate": 7.45
+      },
+      {
+        "name": "legacy_of_dragon",
+        "img": "http://db.irowiki.org/image/item/1559.png",
+        "rate": 1.45
+      },
+      {
+        "name": "pyroxene",
+        "img": "http://db.irowiki.org/image/item/7296.png",
+        "rate": 22.45
+      },
+      {
+        "name": "dragon_breath",
+        "img": "http://db.irowiki.org/image/item/2527.png",
+        "rate": 0.73
+      },
+      {
+        "name": "mutant_dragonoid_card",
+        "img": "http://db.irowiki.org/image/item/4203.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "comodo_field",
+        "number": 3,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/oldmap/thumb/cmd_fild03.png"
+      },
+      {
+        "amount": 3,
+        "frequency": "after_10_minutes",
+        "name": "hugel_field",
+        "number": 5,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/oldmap/thumb/hu_fild05.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "fire_attack"
+      },
+      {
+        "level": 10,
+        "name": "fire_ball"
+      },
+      {
+        "level": 10,
+        "name": "magnum_break"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1283,
+    "name": "chimera",
+    "display_name": "Chimera",
+    "image": "http://db.irowiki.org/image/monster/1283.png",
+    "race": "brute",
+    "size": "large",
+    "element": "fire 3",
+    "level": "70",
+    "hp": "32,600",
+    "attack": "1,200 ~ 1,320 (1)",
+    "drops": [
+      {
+        "name": "brigan",
+        "img": "http://db.irowiki.org/image/item/7054.png",
+        "rate": 79.96
+      },
+      {
+        "name": "horrendous_hair",
+        "img": "http://db.irowiki.org/image/item/1048.png",
+        "rate": 37.45
+      },
+      {
+        "name": "lemon",
+        "img": "http://db.irowiki.org/image/item/568.png",
+        "rate": 14.93
+      },
+      {
+        "name": "war_axe",
+        "img": "http://db.irowiki.org/image/item/1306.png",
+        "rate": 0.02
+      },
+      {
+        "name": "citrin",
+        "img": "http://db.irowiki.org/image/item/7295.png",
+        "rate": 22.45
+      },
+      {
+        "name": "great_axe",
+        "img": "http://db.irowiki.org/image/item/1364.png",
+        "rate": 0.02
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 2.41
+      },
+      {
+        "name": "chimera_card",
+        "img": "http://db.irowiki.org/image/item/4300.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [],
+    "skills": [
+      {
+        "level": 5,
+        "name": "break_shield"
+      },
+      {
+        "level": 3,
+        "name": "fire_attack"
+      },
+      {
+        "level": 5,
+        "name": "guard"
+      },
+      {
+        "level": 5,
+        "name": "heaven_s_drive"
+      },
+      {
+        "level": 1,
+        "name": "splash_attack"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1288,
+    "name": "emperium",
+    "display_name": "Emperium",
+    "image": "http://db.irowiki.org/image/monster/1288.png",
+    "race": "angel",
+    "size": "small",
+    "element": "holy 1",
+    "level": "90",
+    "hp": "150,000",
+    "attack": "60 ~ 71 (1)",
+    "drops": [],
+    "maps": [],
+    "skills": [],
+    "category": "boss"
+  },
+  {
+    "id": 1289,
+    "name": "maya_purple",
+    "display_name": "Maya Purple",
+    "image": "http://db.irowiki.org/image/monster/1289.png",
+    "race": "insect",
+    "size": "large",
+    "element": "earth 4",
+    "level": "81",
+    "hp": "55,479",
+    "attack": "1,447 ~ 2,000 (2)",
+    "drops": [
+      {
+        "name": "cyfar",
+        "img": "http://db.irowiki.org/image/item/7053.png",
+        "rate": 66.16
+      },
+      {
+        "name": "rough_elunium",
+        "img": "http://db.irowiki.org/image/item/757.png",
+        "rate": 3.73
+      },
+      {
+        "name": "rough_oridecon",
+        "img": "http://db.irowiki.org/image/item/756.png",
+        "rate": 4.45
+      },
+      {
+        "name": "gold",
+        "img": "http://db.irowiki.org/image/item/969.png",
+        "rate": 1.45
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 2.17
+      },
+      {
+        "name": "queen_s_hair_ornament",
+        "img": "http://db.irowiki.org/image/item/10006.png",
+        "rate": 0.02
+      },
+      {
+        "name": "level_cookbook",
+        "img": "http://db.irowiki.org/image/item/7481.png",
+        "rate": 0.02
+      },
+      {
+        "name": "maya_purple_card",
+        "img": "http://db.irowiki.org/image/item/4198.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "ant_hell",
+        "number": 1,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/anthell01.png"
+      },
+      {
+        "amount": 3,
+        "frequency": "after_20_minutes",
+        "name": "guild_dungeon_valkyrie",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gld_dun03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 10,
+        "name": "brandish_spear"
+      },
+      {
+        "level": 5,
+        "name": "heaven_s_drive"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1295,
+    "name": "owl_baron",
+    "display_name": "Owl Baron",
+    "image": "http://db.irowiki.org/image/monster/1295.png",
+    "race": "demon",
+    "size": "large",
+    "element": "neutral 3",
+    "level": "75",
+    "hp": "60,746",
+    "attack": "1,252 ~ 1,610 (2)",
+    "drops": [
+      {
+        "name": "tattered_clothes",
+        "img": "http://db.irowiki.org/image/item/7071.png",
+        "rate": 52.44
+      },
+      {
+        "name": "soft_feather",
+        "img": "http://db.irowiki.org/image/item/7063.png",
+        "rate": 37.45
+      },
+      {
+        "name": "gakkung_bow",
+        "img": "http://db.irowiki.org/image/item/1716.png",
+        "rate": 0.02
+      },
+      {
+        "name": "soul_staff",
+        "img": "http://db.irowiki.org/image/item/1472.png",
+        "rate": 0.02
+      },
+      {
+        "name": "gentleman_staff",
+        "img": "http://db.irowiki.org/image/item/1629.png",
+        "rate": 0
+      },
+      {
+        "name": "level_lightening_bolt",
+        "img": "http://db.irowiki.org/image/item/693.png",
+        "rate": 1.45
+      },
+      {
+        "name": "magician_hat",
+        "img": "http://db.irowiki.org/image/item/5045.png",
+        "rate": 0.02
+      },
+      {
+        "name": "owl_baron_card",
+        "img": "http://db.irowiki.org/image/item/4238.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 3,
+        "frequency": "instantly",
+        "name": "guild_dungeon_luina",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gld_dun02.png"
+      },
+      {
+        "amount": 10,
+        "frequency": "instantly",
+        "name": "thanatos_tower_f",
+        "number": 4,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t04.png"
+      },
+      {
+        "amount": 20,
+        "frequency": "after_5_minutes",
+        "name": "thanatos_tower_f",
+        "number": 5,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t05.png"
+      },
+      {
+        "amount": 40,
+        "frequency": "after_5_minutes",
+        "name": "thanatos_tower_f",
+        "number": 6,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t06.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "lightning_bolt"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1302,
+    "name": "dark_illusion",
+    "display_name": "Dark Illusion",
+    "image": "http://db.irowiki.org/image/monster/1302.png",
+    "race": "demon",
+    "size": "large",
+    "element": "undead 4",
+    "level": "77",
+    "hp": "103,631",
+    "attack": "1,300 ~ 1,983 (2)",
+    "drops": [
+      {
+        "name": "evil_bone_wand",
+        "img": "http://db.irowiki.org/image/item/1615.png",
+        "rate": 0.02
+      },
+      {
+        "name": "bone_helm",
+        "img": "http://db.irowiki.org/image/item/5017.png",
+        "rate": 0.02
+      },
+      {
+        "name": "ragamuffin_manteau",
+        "img": "http://db.irowiki.org/image/item/2508.png",
+        "rate": 0.02
+      },
+      {
+        "name": "brigan",
+        "img": "http://db.irowiki.org/image/item/7054.png",
+        "rate": 79.96
+      },
+      {
+        "name": "mastela_fruit",
+        "img": "http://db.irowiki.org/image/item/522.png",
+        "rate": 1.73
+      },
+      {
+        "name": "white_herb",
+        "img": "http://db.irowiki.org/image/item/509.png",
+        "rate": 23.21
+      },
+      {
+        "name": "broadsword",
+        "img": "http://db.irowiki.org/image/item/1162.png",
+        "rate": 0.02
+      },
+      {
+        "name": "dark_illusion_card",
+        "img": "http://db.irowiki.org/image/item/4169.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_20_minutes",
+        "name": "guild_dungeon_britoniah",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gld_dun04.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 2,
+        "name": "guided_attack"
+      },
+      {
+        "level": 5,
+        "name": "meteor_storm"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1307,
+    "name": "cat_o_nine_tails",
+    "display_name": "Cat O Nine Tails",
+    "image": "http://db.irowiki.org/image/monster/1307.png",
+    "race": "demon",
+    "size": "medium",
+    "element": "fire 3",
+    "level": "76",
+    "hp": "64,512",
+    "attack": "1,112 ~ 1,275 (1)",
+    "drops": [
+      {
+        "name": "puppy_love",
+        "img": "http://db.irowiki.org/image/item/5008.png",
+        "rate": 0.02
+      },
+      {
+        "name": "silver_knife_of_chastity",
+        "img": "http://db.irowiki.org/image/item/638.png",
+        "rate": 2.17
+      },
+      {
+        "name": "punisher",
+        "img": "http://db.irowiki.org/image/item/10008.png",
+        "rate": 0.02
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 8.93
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 12
+      },
+      {
+        "name": "gold",
+        "img": "http://db.irowiki.org/image/item/969.png",
+        "rate": 0.02
+      },
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 0.02
+      },
+      {
+        "name": "cat_o_nine_tails_card",
+        "img": "http://db.irowiki.org/image/item/4290.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 3,
+        "frequency": "after_20_minutes",
+        "name": "guild_dungeon_baldur",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gld_dun01.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "payon_cave",
+        "number": 5,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/pay_dun04.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 2,
+        "name": "guided_attack"
+      },
+      {
+        "level": 9,
+        "name": "mammonite"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1320,
+    "name": "owl_duke",
+    "display_name": "Owl Duke",
+    "image": "http://db.irowiki.org/image/monster/1320.png",
+    "race": "demon",
+    "size": "large",
+    "element": "neutral 3",
+    "level": "75",
+    "hp": "26,623",
+    "attack": "715 ~ 910 (1)",
+    "drops": [
+      {
+        "name": "tattered_clothes",
+        "img": "http://db.irowiki.org/image/item/7071.png",
+        "rate": 66.16
+      },
+      {
+        "name": "soft_feather",
+        "img": "http://db.irowiki.org/image/item/7063.png",
+        "rate": 22.45
+      },
+      {
+        "name": "level_lightening_bolt",
+        "img": "http://db.irowiki.org/image/item/693.png",
+        "rate": 1.45
+      },
+      {
+        "name": "crystal_mirror",
+        "img": "http://db.irowiki.org/image/item/747.png",
+        "rate": 0.02
+      },
+      {
+        "name": "guisarme",
+        "img": "http://db.irowiki.org/image/item/1451.png",
+        "rate": 0.02
+      },
+      {
+        "name": "morning_star",
+        "img": "http://db.irowiki.org/image/item/1513.png",
+        "rate": 0.02
+      },
+      {
+        "name": "magician_hat",
+        "img": "http://db.irowiki.org/image/item/5045.png",
+        "rate": 0.02
+      },
+      {
+        "name": "owl_duke_card",
+        "img": "http://db.irowiki.org/image/item/4237.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 40,
+        "frequency": "instantly",
+        "name": "clock_tower_f",
+        "number": 4,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/c_tower4.png"
+      },
+      {
+        "amount": 6,
+        "frequency": "instantly",
+        "name": "glast_heim_f",
+        "number": 1,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/gl_cas01.png"
+      },
+      {
+        "amount": 10,
+        "frequency": "instantly",
+        "name": "thanatos_tower_f",
+        "number": 4,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t04.png"
+      },
+      {
+        "amount": 80,
+        "frequency": "after_5_minutes",
+        "name": "thanatos_tower_f",
+        "number": 5,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t05.png"
+      },
+      {
+        "amount": 40,
+        "frequency": "after_5_minutes",
+        "name": "thanatos_tower_f",
+        "number": 6,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t06.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 3,
+        "name": "lightning_bolt"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1388,
+    "name": "arc_angeling",
+    "display_name": "Arc Angeling",
+    "image": "http://db.irowiki.org/image/monster/1388.png",
+    "race": "angel",
+    "size": "medium",
+    "element": "holy 3",
+    "level": "60",
+    "hp": "79,523",
+    "attack": "669 ~ 890 (1)",
+    "drops": [
+      {
+        "name": "evil_wing",
+        "img": "http://db.irowiki.org/image/item/2255.png",
+        "rate": 0.02
+      },
+      {
+        "name": "yggdrasil_leaf",
+        "img": "http://db.irowiki.org/image/item/610.png",
+        "rate": 26.93
+      },
+      {
+        "name": "yggdrasil_seed",
+        "img": "http://db.irowiki.org/image/item/608.png",
+        "rate": 2.17
+      },
+      {
+        "name": "agate",
+        "img": "http://db.irowiki.org/image/item/7291.png",
+        "rate": 22.45
+      },
+      {
+        "name": "angel_wing",
+        "img": "http://db.irowiki.org/image/item/2254.png",
+        "rate": 0.02
+      },
+      {
+        "name": "full_plate",
+        "img": "http://db.irowiki.org/image/item/2317.png",
+        "rate": 0.02
+      },
+      {
+        "name": "turquoise",
+        "img": "http://db.irowiki.org/image/item/7294.png",
+        "rate": 22.45
+      },
+      {
+        "name": "arc_angeling_card",
+        "img": "http://db.irowiki.org/image/item/4241.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "juno_field",
+        "number": 5,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/oldmap/thumb/yuno_fild05.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "barrier"
+      },
+      {
+        "level": 1,
+        "name": "call_slave"
+      },
+      {
+        "level": 1,
+        "name": "grand_cross"
+      },
+      {
+        "level": 10,
+        "name": "heal"
+      },
+      {
+        "level": 5,
+        "name": "holy_attack"
+      },
+      {
+        "level": 10,
+        "name": "sanctuary"
+      },
+      {
+        "level": 5,
+        "name": "snatch"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1582,
+    "name": "deviling",
+    "display_name": "Deviling",
+    "image": "http://db.irowiki.org/image/monster/1582.png",
+    "race": "demon",
+    "size": "medium",
+    "element": "shadow 4",
+    "level": "31",
+    "hp": "64,500",
+    "attack": "135 ~ 270 (1)",
+    "drops": [
+      {
+        "name": "little_evil_wing",
+        "img": "http://db.irowiki.org/image/item/1039.png",
+        "rate": 44.93
+      },
+      {
+        "name": "zargon",
+        "img": "http://db.irowiki.org/image/item/912.png",
+        "rate": 72.72
+      },
+      {
+        "name": "evil_wing",
+        "img": "http://db.irowiki.org/image/item/2255.png",
+        "rate": 1.45
+      },
+      {
+        "name": "apple",
+        "img": "http://db.irowiki.org/image/item/512.png",
+        "rate": 74.92
+      },
+      {
+        "name": "blade_lost_in_darkness",
+        "img": "http://db.irowiki.org/image/item/7023.png",
+        "rate": 0.02
+      },
+      {
+        "name": "black_dyestuffs",
+        "img": "http://db.irowiki.org/image/item/983.png",
+        "rate": 1.45
+      },
+      {
+        "name": "level_soul_strike",
+        "img": "http://db.irowiki.org/image/item/694.png",
+        "rate": 1.45
+      },
+      {
+        "name": "deviling_card",
+        "img": "http://db.irowiki.org/image/item/4174.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "juno_field",
+        "number": 3,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/yuno_fild03.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "payon_forest",
+        "number": 4,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/pay_fild04.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "dark_strike"
+      },
+      {
+        "level": 1,
+        "name": "decrease_agi"
+      },
+      {
+        "level": 2,
+        "name": "shadow_attack"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1592,
+    "name": "gangster",
+    "display_name": "Gangster",
+    "image": "http://db.irowiki.org/image/monster/1592.png",
+    "race": "demi_human",
+    "size": "medium",
+    "element": "neutral 1",
+    "level": "40",
+    "hp": "8,000",
+    "attack": "300 ~ 355 (1)",
+    "drops": [
+      {
+        "name": "stone",
+        "img": "http://db.irowiki.org/image/item/7049.png",
+        "rate": 100
+      },
+      {
+        "name": "fly_wing",
+        "img": "http://db.irowiki.org/image/item/601.png",
+        "rate": 30
+      },
+      {
+        "name": "cutter",
+        "img": "http://db.irowiki.org/image/item/1206.png",
+        "rate": 44.93
+      },
+      {
+        "name": "empty_bottle",
+        "img": "http://db.irowiki.org/image/item/713.png",
+        "rate": 14.93
+      },
+      {
+        "name": "rice_cake",
+        "img": "http://db.irowiki.org/image/item/550.png",
+        "rate": 100
+      },
+      {
+        "name": "stone",
+        "img": "http://db.irowiki.org/image/item/7049.png",
+        "rate": 0
+      },
+      {
+        "name": "stone",
+        "img": "http://db.irowiki.org/image/item/7049.png",
+        "rate": 0
+      },
+      {
+        "name": "stone",
+        "img": "http://db.irowiki.org/image/item/7049.png",
+        "rate": 0
+      }
+    ],
+    "maps": [],
+    "skills": [],
+    "category": "boss"
+  },
+  {
+    "id": 1605,
+    "name": "dark_illusion_ghost",
+    "display_name": "Dark Illusion Ghost",
+    "image": "http://db.irowiki.org/image/monster/1605.png",
+    "race": "demon",
+    "size": "large",
+    "element": "undead 4",
+    "level": "77",
+    "hp": "103,631",
+    "attack": "1,300 ~ 1,983 (2)",
+    "drops": [],
+    "maps": [],
+    "skills": [],
+    "category": "boss"
+  },
+  {
+    "id": 1626,
+    "name": "hellion_revenant",
+    "display_name": "Hellion Revenant",
+    "image": "http://db.irowiki.org/image/monster/1626.png",
+    "race": "demon",
+    "size": "medium",
+    "element": "undead 3",
+    "level": "88",
+    "hp": "286,900",
+    "attack": "50 ~ 3,150 (2)",
+    "drops": [
+      {
+        "name": "eye_of_hellion",
+        "img": "http://db.irowiki.org/image/item/7337.png",
+        "rate": 100
+      },
+      {
+        "name": "eye_of_hellion",
+        "img": "http://db.irowiki.org/image/item/7337.png",
+        "rate": 74.92
+      },
+      {
+        "name": "eye_of_hellion",
+        "img": "http://db.irowiki.org/image/item/7337.png",
+        "rate": 44.93
+      },
+      {
+        "name": "eye_of_hellion",
+        "img": "http://db.irowiki.org/image/item/7337.png",
+        "rate": 14.93
+      },
+      {
+        "name": "eye_of_hellion",
+        "img": "http://db.irowiki.org/image/item/7337.png",
+        "rate": 7.45
+      },
+      {
+        "name": "eye_of_hellion",
+        "img": "http://db.irowiki.org/image/item/7337.png",
+        "rate": 1.45
+      }
+    ],
+    "maps": [],
+    "skills": [
+      {
+        "level": 5,
+        "name": "dark_breath"
+      },
+      {
+        "level": 10,
+        "name": "dark_cross"
+      },
+      {
+        "level": 10,
+        "name": "dark_strike"
+      },
+      {
+        "level": 5,
+        "name": "grand_darkness"
+      },
+      {
+        "level": 10,
+        "name": "heal"
+      },
+      {
+        "level": 5,
+        "name": "property_change_undead"
+      },
+      {
+        "level": 5,
+        "name": "shadow_attack"
+      },
+      {
+        "level": 1,
+        "name": "snap"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1640,
+    "name": "lord_knight_seyren_ghost",
+    "display_name": "Lord Knight Seyren Ghost",
+    "image": "http://db.irowiki.org/image/monster/1640.png",
+    "race": "demi_human",
+    "size": "medium",
+    "element": "fire 4",
+    "level": "99",
+    "hp": "347,590",
+    "attack": "4,238 ~ 5,040 (1)",
+    "drops": [
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 0.13
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_45_minutes",
+        "name": "lighthalzen_dungeon",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/lhz_dun03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 10,
+        "name": "bash"
+      },
+      {
+        "level": 5,
+        "name": "clashing_spiral"
+      },
+      {
+        "level": 1,
+        "name": "critical_slash"
+      },
+      {
+        "level": 10,
+        "name": "endure"
+      },
+      {
+        "level": 10,
+        "name": "fire_attack"
+      },
+      {
+        "level": 10,
+        "name": "magnum_break"
+      },
+      {
+        "level": 5,
+        "name": "power_up"
+      },
+      {
+        "level": 10,
+        "name": "provoke"
+      },
+      {
+        "level": 5,
+        "name": "spear_boomerang"
+      },
+      {
+        "level": 5,
+        "name": "stun_attack"
+      },
+      {
+        "level": 10,
+        "name": "twohand_quicken"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1641,
+    "name": "assassin_cross_eremes_ghost",
+    "display_name": "Assassin Cross Eremes Ghost",
+    "image": "http://db.irowiki.org/image/monster/1641.png",
+    "race": "demi_human",
+    "size": "medium",
+    "element": "poison 4",
+    "level": "99",
+    "hp": "211,230",
+    "attack": "3,189 ~ 5,289 (1)",
+    "drops": [
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 0.13
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_43_minutes",
+        "name": "lighthalzen_dungeon",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/lhz_dun03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "agility_up"
+      },
+      {
+        "level": 1,
+        "name": "critical_slash"
+      },
+      {
+        "level": 10,
+        "name": "envenom"
+      },
+      {
+        "level": 5,
+        "name": "grimtooth"
+      },
+      {
+        "level": 10,
+        "name": "guided_attack"
+      },
+      {
+        "level": 1,
+        "name": "invisible"
+      },
+      {
+        "level": 10,
+        "name": "meteor_assault"
+      },
+      {
+        "level": 10,
+        "name": "poison_attack"
+      },
+      {
+        "level": 1,
+        "name": "self_destruction"
+      },
+      {
+        "level": 10,
+        "name": "sonic_blow"
+      },
+      {
+        "level": 10,
+        "name": "soul_destroyer"
+      },
+      {
+        "level": 5,
+        "name": "stun_attack"
+      },
+      {
+        "level": 1,
+        "name": "venom_dust"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1642,
+    "name": "master_smith_howard_ghost",
+    "display_name": "Master Smith Howard Ghost",
+    "image": "http://db.irowiki.org/image/monster/1642.png",
+    "race": "demi_human",
+    "size": "medium",
+    "element": "water 4",
+    "level": "99",
+    "hp": "310,000",
+    "attack": "4,822 ~ 5,033 (1)",
+    "drops": [
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 0.13
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_50_minutes",
+        "name": "lighthalzen_dungeon",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/lhz_dun03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 10,
+        "name": "adrenaline_rush"
+      },
+      {
+        "level": 10,
+        "name": "break_armor"
+      },
+      {
+        "level": 10,
+        "name": "break_helm"
+      },
+      {
+        "level": 10,
+        "name": "break_shield"
+      },
+      {
+        "level": 1,
+        "name": "critical_slash"
+      },
+      {
+        "level": 10,
+        "name": "hammer_fall"
+      },
+      {
+        "level": 10,
+        "name": "mammonite"
+      },
+      {
+        "level": 1,
+        "name": "power_maximize"
+      },
+      {
+        "level": 5,
+        "name": "power_up"
+      },
+      {
+        "level": 1,
+        "name": "self_destruction"
+      },
+      {
+        "level": 1,
+        "name": "splash_attack"
+      },
+      {
+        "level": 10,
+        "name": "water_attack"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1643,
+    "name": "high_priest_margaretha_ghost",
+    "display_name": "High Priest Margaretha Ghost",
+    "image": "http://db.irowiki.org/image/monster/1643.png",
+    "race": "demi_human",
+    "size": "medium",
+    "element": "holy 4",
+    "level": "99",
+    "hp": "182,910",
+    "attack": "1,688 ~ 2,580 (1)",
+    "drops": [
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 0.13
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_55_minutes",
+        "name": "lighthalzen_dungeon",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/lhz_dun03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "assumptio"
+      },
+      {
+        "level": 1,
+        "name": "critical_slash"
+      },
+      {
+        "level": 10,
+        "name": "decrease_agi"
+      },
+      {
+        "level": 10,
+        "name": "heal"
+      },
+      {
+        "level": 10,
+        "name": "holy_attack"
+      },
+      {
+        "level": 10,
+        "name": "increase_agi"
+      },
+      {
+        "level": 1,
+        "name": "lex_aeterna"
+      },
+      {
+        "level": 10,
+        "name": "lex_divina"
+      },
+      {
+        "level": 1,
+        "name": "pneuma"
+      },
+      {
+        "level": 10,
+        "name": "safety_wall"
+      },
+      {
+        "level": 1,
+        "name": "self_destruction"
+      },
+      {
+        "level": 5,
+        "name": "stun_attack"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1644,
+    "name": "sniper_cecil_ghost",
+    "display_name": "Sniper Cecil Ghost",
+    "image": "http://db.irowiki.org/image/monster/1644.png",
+    "race": "demi_human",
+    "size": "medium",
+    "element": "wind 4",
+    "level": "99",
+    "hp": "209,000",
+    "attack": "1,892 ~ 5,113 (14)",
+    "drops": [
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 0.13
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_45_minutes",
+        "name": "lighthalzen_dungeon",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/lhz_dun03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "agility_up"
+      },
+      {
+        "level": 5,
+        "name": "ankle_snare"
+      },
+      {
+        "level": 1,
+        "name": "arrow_repel"
+      },
+      {
+        "level": 10,
+        "name": "arrow_shower"
+      },
+      {
+        "level": 5,
+        "name": "blast_mine"
+      },
+      {
+        "level": 1,
+        "name": "critical_slash"
+      },
+      {
+        "level": 10,
+        "name": "double_strafe"
+      },
+      {
+        "level": 5,
+        "name": "focused_arrow_strike"
+      },
+      {
+        "level": 5,
+        "name": "land_mine"
+      },
+      {
+        "level": 5,
+        "name": "power_up"
+      },
+      {
+        "level": 1,
+        "name": "self_destruction"
+      },
+      {
+        "level": 5,
+        "name": "stun_attack"
+      },
+      {
+        "level": 10,
+        "name": "wind_attack"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1645,
+    "name": "high_wizard_kathryne_ghost",
+    "display_name": "High Wizard Kathryne Ghost",
+    "image": "http://db.irowiki.org/image/monster/1645.png",
+    "race": "demi_human",
+    "size": "medium",
+    "element": "ghost 3",
+    "level": "99",
+    "hp": "189,920",
+    "attack": "497 ~ 2,094 (1)",
+    "drops": [
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 0.13
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_43_minutes",
+        "name": "lighthalzen_dungeon",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/lhz_dun03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 10,
+        "name": "fire_pillar"
+      },
+      {
+        "level": 1,
+        "name": "ganbantein"
+      },
+      {
+        "level": 5,
+        "name": "heaven_s_drive"
+      },
+      {
+        "level": 10,
+        "name": "lord_of_vermilion"
+      },
+      {
+        "level": 10,
+        "name": "meteor_storm"
+      },
+      {
+        "level": 5,
+        "name": "naplam_vulcan"
+      },
+      {
+        "level": 1,
+        "name": "self_destruction"
+      },
+      {
+        "level": 1,
+        "name": "sight"
+      },
+      {
+        "level": 10,
+        "name": "storm_gust"
+      },
+      {
+        "level": 5,
+        "name": "water_ball"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1674,
+    "name": "monemus",
+    "display_name": "Monemus",
+    "image": "http://db.irowiki.org/image/monster/1674.png",
+    "race": "formless",
+    "size": "large",
+    "element": "fire 3",
+    "level": "88",
+    "hp": "80,000",
+    "attack": "2,000 ~ 3,000 (5)",
+    "drops": [
+      {
+        "name": "stone",
+        "img": "http://db.irowiki.org/image/item/7049.png",
+        "rate": 30
+      },
+      {
+        "name": "stone_heart",
+        "img": "http://db.irowiki.org/image/item/953.png",
+        "rate": 14.93
+      },
+      {
+        "name": "stone",
+        "img": "http://db.irowiki.org/image/item/7049.png",
+        "rate": 0
+      },
+      {
+        "name": "stone",
+        "img": "http://db.irowiki.org/image/item/7049.png",
+        "rate": 0
+      },
+      {
+        "name": "stone",
+        "img": "http://db.irowiki.org/image/item/7049.png",
+        "rate": 0
+      },
+      {
+        "name": "stone",
+        "img": "http://db.irowiki.org/image/item/7049.png",
+        "rate": 0
+      },
+      {
+        "name": "stone",
+        "img": "http://db.irowiki.org/image/item/7049.png",
+        "rate": 0
+      },
+      {
+        "name": "stone",
+        "img": "http://db.irowiki.org/image/item/7049.png",
+        "rate": 0
+      }
+    ],
+    "maps": [],
+    "skills": [
+      {
+        "level": 1,
+        "name": "fire_attack"
+      },
+      {
+        "level": 3,
+        "name": "fire_attack"
+      },
+      {
+        "level": 10,
+        "name": "fire_attack"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1681,
+    "name": "gemini_s58",
+    "display_name": "Gemini S58",
+    "image": "http://db.irowiki.org/image/monster/1681.png",
+    "race": "formless",
+    "size": "medium",
+    "element": "water 1",
+    "level": "72",
+    "hp": "57,870",
+    "attack": "2,150 ~ 3,030 (3)",
+    "drops": [
+      {
+        "name": "skull",
+        "img": "http://db.irowiki.org/image/item/7005.png",
+        "rate": 44.93
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 14.93
+      },
+      {
+        "name": "butcher",
+        "img": "http://db.irowiki.org/image/item/13159.png",
+        "rate": 0.02
+      },
+      {
+        "name": "condensed_yellow_potion",
+        "img": "http://db.irowiki.org/image/item/546.png",
+        "rate": 7.45
+      },
+      {
+        "name": "condensed_white_potion",
+        "img": "http://db.irowiki.org/image/item/547.png",
+        "rate": 6
+      },
+      {
+        "name": "level_cookbook",
+        "img": "http://db.irowiki.org/image/item/7479.png",
+        "rate": 0.02
+      },
+      {
+        "name": "stone_of_sage",
+        "img": "http://db.irowiki.org/image/item/12040.png",
+        "rate": 4.45
+      },
+      {
+        "name": "gemini_s_card",
+        "img": "http://db.irowiki.org/image/item/4354.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "lighthalzen_dungeon",
+        "number": 1,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/lhz_dun01.png"
+      },
+      {
+        "amount": 10,
+        "frequency": "after_1_hour_30_min",
+        "name": "lighthalzen_dungeon",
+        "number": 2,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/lhz_dun02.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "consecutive_attack"
+      },
+      {
+        "level": 5,
+        "name": "grimtooth"
+      },
+      {
+        "level": 5,
+        "name": "pierce"
+      },
+      {
+        "level": 10,
+        "name": "piercing_attack"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1700,
+    "name": "dame_of_sentinel",
+    "display_name": "Dame Of Sentinel",
+    "image": "http://db.irowiki.org/image/monster/1700.png",
+    "race": "angel",
+    "size": "medium",
+    "element": "neutral 4",
+    "level": "81",
+    "hp": "65,111",
+    "attack": "1,666 ~ 2,609 (2)",
+    "drops": [
+      {
+        "name": "blue_feather",
+        "img": "http://db.irowiki.org/image/item/7441.png",
+        "rate": 7.45
+      },
+      {
+        "name": "ring",
+        "img": "http://db.irowiki.org/image/item/2621.png",
+        "rate": 0.02
+      },
+      {
+        "name": "cursed_seal",
+        "img": "http://db.irowiki.org/image/item/7442.png",
+        "rate": 1.45
+      },
+      {
+        "name": "topaz",
+        "img": "http://db.irowiki.org/image/item/728.png",
+        "rate": 14.93
+      },
+      {
+        "name": "stone_of_sage",
+        "img": "http://db.irowiki.org/image/item/12040.png",
+        "rate": 1.45
+      },
+      {
+        "name": "hair_band",
+        "img": "http://db.irowiki.org/image/item/2210.png",
+        "rate": 0.13
+      },
+      {
+        "name": "golden_ornament",
+        "img": "http://db.irowiki.org/image/item/7435.png",
+        "rate": 1.45
+      },
+      {
+        "name": "dame_of_sentinel_card",
+        "img": "http://db.irowiki.org/image/item/4392.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 4,
+        "frequency": "after_30_minutes",
+        "name": "thanatos_tower_f",
+        "number": 4,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t04.png"
+      },
+      {
+        "amount": 7,
+        "frequency": "after_5_minutes",
+        "name": "thanatos_tower_f",
+        "number": 7,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t07.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "instantly",
+        "name": "thanatos_tower_f",
+        "number": 8,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t08.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "after_7_minutes",
+        "name": "thanatos_tower_f",
+        "number": 9,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t09.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "after_7_minutes",
+        "name": "thanatos_tower_f",
+        "number": 10,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t10.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "after_7_minutes",
+        "name": "thanatos_tower_f",
+        "number": 11,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t11.png"
+      },
+      {
+        "amount": 13,
+        "frequency": "after_10_minutes",
+        "name": "thanatos_tower_f",
+        "number": 12,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t12.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 9,
+        "name": "heal"
+      },
+      {
+        "level": 2,
+        "name": "holy_attack"
+      },
+      {
+        "level": 4,
+        "name": "jupitel_thunder"
+      },
+      {
+        "level": 5,
+        "name": "safety_wall"
+      },
+      {
+        "level": 5,
+        "name": "snatch"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1701,
+    "name": "mistress_of_shelter",
+    "display_name": "Mistress Of Shelter",
+    "image": "http://db.irowiki.org/image/monster/1701.png",
+    "race": "angel",
+    "size": "medium",
+    "element": "holy 3",
+    "level": "80",
+    "hp": "38,000",
+    "attack": "1,871 ~ 1,971 (2)",
+    "drops": [
+      {
+        "name": "red_feather",
+        "img": "http://db.irowiki.org/image/item/7440.png",
+        "rate": 2.93
+      },
+      {
+        "name": "cursed_seal",
+        "img": "http://db.irowiki.org/image/item/7442.png",
+        "rate": 0.02
+      },
+      {
+        "name": "stone_of_sage",
+        "img": "http://db.irowiki.org/image/item/12040.png",
+        "rate": 0.73
+      },
+      {
+        "name": "pearl",
+        "img": "http://db.irowiki.org/image/item/722.png",
+        "rate": 14.93
+      },
+      {
+        "name": "skull",
+        "img": "http://db.irowiki.org/image/item/7005.png",
+        "rate": 14.93
+      },
+      {
+        "name": "cursed_seal",
+        "img": "http://db.irowiki.org/image/item/7442.png",
+        "rate": 0.73
+      },
+      {
+        "name": "cursed_seal",
+        "img": "http://db.irowiki.org/image/item/7442.png",
+        "rate": 0
+      },
+      {
+        "name": "mistress_of_shelter_card",
+        "img": "http://db.irowiki.org/image/item/4393.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 4,
+        "frequency": "after_30_minutes",
+        "name": "thanatos_tower_f",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t03.png"
+      },
+      {
+        "amount": 7,
+        "frequency": "after_5_minutes",
+        "name": "thanatos_tower_f",
+        "number": 7,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t07.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "instantly",
+        "name": "thanatos_tower_f",
+        "number": 8,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t08.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "after_7_minutes",
+        "name": "thanatos_tower_f",
+        "number": 9,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t09.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "after_7_minutes",
+        "name": "thanatos_tower_f",
+        "number": 10,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t10.png"
+      },
+      {
+        "amount": 20,
+        "frequency": "after_10_minutes",
+        "name": "thanatos_tower_f",
+        "number": 11,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t11.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "after_7_minutes",
+        "name": "thanatos_tower_f",
+        "number": 12,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t12.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 7,
+        "name": "blind_attack"
+      },
+      {
+        "level": 4,
+        "name": "dark_thunder"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 1,
+        "name": "venom_dust"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1702,
+    "name": "baroness_of_retribution",
+    "display_name": "Baroness Of Retribution",
+    "image": "http://db.irowiki.org/image/monster/1702.png",
+    "race": "angel",
+    "size": "medium",
+    "element": "shadow 3",
+    "level": "79",
+    "hp": "46,666",
+    "attack": "2,022 ~ 2,288 (2)",
+    "drops": [
+      {
+        "name": "red_feather",
+        "img": "http://db.irowiki.org/image/item/7440.png",
+        "rate": 6
+      },
+      {
+        "name": "ring",
+        "img": "http://db.irowiki.org/image/item/2621.png",
+        "rate": 0.02
+      },
+      {
+        "name": "stone_of_sage",
+        "img": "http://db.irowiki.org/image/item/12040.png",
+        "rate": 0.73
+      },
+      {
+        "name": "ruby",
+        "img": "http://db.irowiki.org/image/item/723.png",
+        "rate": 14.93
+      },
+      {
+        "name": "manteau",
+        "img": "http://db.irowiki.org/image/item/2506.png",
+        "rate": 0.02
+      },
+      {
+        "name": "two_handed_sword",
+        "img": "http://db.irowiki.org/image/item/1158.png",
+        "rate": 0.13
+      },
+      {
+        "name": "cursed_seal",
+        "img": "http://db.irowiki.org/image/item/7442.png",
+        "rate": 0.73
+      },
+      {
+        "name": "baroness_of_retribution_card",
+        "img": "http://db.irowiki.org/image/item/4391.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 4,
+        "frequency": "after_30_minutes",
+        "name": "thanatos_tower_f",
+        "number": 2,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t02.png"
+      },
+      {
+        "amount": 15,
+        "frequency": "instantly",
+        "name": "thanatos_tower_f",
+        "number": 7,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t07.png"
+      },
+      {
+        "amount": 20,
+        "frequency": "after_5_minutes",
+        "name": "thanatos_tower_f",
+        "number": 8,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t08.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "after_7_minutes",
+        "name": "thanatos_tower_f",
+        "number": 9,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t09.png"
+      },
+      {
+        "amount": 20,
+        "frequency": "after_10_minutes",
+        "name": "thanatos_tower_f",
+        "number": 10,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t10.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "after_7_minutes",
+        "name": "thanatos_tower_f",
+        "number": 11,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t11.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "after_7_minutes",
+        "name": "thanatos_tower_f",
+        "number": 12,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t12.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 3,
+        "name": "curse_attack"
+      },
+      {
+        "level": 1,
+        "name": "dark_breath"
+      },
+      {
+        "level": 3,
+        "name": "dark_cross"
+      },
+      {
+        "level": 1,
+        "name": "grand_darkness"
+      },
+      {
+        "level": 2,
+        "name": "shadow_attack"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1703,
+    "name": "lady_solace",
+    "display_name": "Lady Solace",
+    "image": "http://db.irowiki.org/image/monster/1703.png",
+    "race": "angel",
+    "size": "medium",
+    "element": "holy 3",
+    "level": "77",
+    "hp": "25,252",
+    "attack": "1,392 ~ 1,462 (2)",
+    "drops": [
+      {
+        "name": "blue_feather",
+        "img": "http://db.irowiki.org/image/item/7441.png",
+        "rate": 2.93
+      },
+      {
+        "name": "ring",
+        "img": "http://db.irowiki.org/image/item/2621.png",
+        "rate": 0.02
+      },
+      {
+        "name": "stone_of_sage",
+        "img": "http://db.irowiki.org/image/item/12040.png",
+        "rate": 0.73
+      },
+      {
+        "name": "garnet",
+        "img": "http://db.irowiki.org/image/item/718.png",
+        "rate": 14.93
+      },
+      {
+        "name": "harp",
+        "img": "http://db.irowiki.org/image/item/1910.png",
+        "rate": 0.73
+      },
+      {
+        "name": "harp",
+        "img": "http://db.irowiki.org/image/item/1909.png",
+        "rate": 1.45
+      },
+      {
+        "name": "cursed_seal",
+        "img": "http://db.irowiki.org/image/item/7442.png",
+        "rate": 0.73
+      },
+      {
+        "name": "lady_solace_card",
+        "img": "http://db.irowiki.org/image/item/4394.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 4,
+        "frequency": "after_30_minutes",
+        "name": "thanatos_tower_f",
+        "number": 1,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t01.png"
+      },
+      {
+        "amount": 7,
+        "frequency": "after_5_minutes",
+        "name": "thanatos_tower_f",
+        "number": 7,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t07.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "instantly",
+        "name": "thanatos_tower_f",
+        "number": 8,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t08.png"
+      },
+      {
+        "amount": 20,
+        "frequency": "after_10_minutes",
+        "name": "thanatos_tower_f",
+        "number": 9,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t09.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "after_7_minutes",
+        "name": "thanatos_tower_f",
+        "number": 10,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t10.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "after_7_minutes",
+        "name": "thanatos_tower_f",
+        "number": 11,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t11.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "after_7_minutes",
+        "name": "thanatos_tower_f",
+        "number": 12,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t12.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "grand_cross"
+      },
+      {
+        "level": 2,
+        "name": "holy_attack"
+      },
+      {
+        "level": 1,
+        "name": "lex_aeterna"
+      },
+      {
+        "level": 10,
+        "name": "lex_divina"
+      },
+      {
+        "level": 5,
+        "name": "napalm_beat"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1704,
+    "name": "odium_of_thanatos",
+    "display_name": "Odium Of Thanatos",
+    "image": "http://db.irowiki.org/image/monster/1704.png",
+    "race": "undead",
+    "size": "large",
+    "element": "ghost 4",
+    "level": "92",
+    "hp": "72,389",
+    "attack": "2,100 ~ 2,800 (9)",
+    "drops": [
+      {
+        "name": "brigan",
+        "img": "http://db.irowiki.org/image/item/7054.png",
+        "rate": 14.93
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/731.png",
+        "rate": 7.45
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/732.png",
+        "rate": 1.45
+      },
+      {
+        "name": "fragment_of_hatred",
+        "img": "http://db.irowiki.org/image/item/7438.png",
+        "rate": 100
+      },
+      {
+        "name": "ancient_card_album",
+        "img": "http://db.irowiki.org/image/item/19468.png",
+        "rate": 0.13
+      },
+      {
+        "name": "goibne_s_spaulders",
+        "img": "http://db.irowiki.org/image/item/2520.png",
+        "rate": 14.93
+      },
+      {
+        "name": "odium_of_thanatos_card",
+        "img": "http://db.irowiki.org/image/item/4396.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 2,
+        "frequency": "after_30_minutes",
+        "name": "thanatos_tower_f",
+        "number": 8,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t08.png"
+      },
+      {
+        "amount": 4,
+        "frequency": "after_30_minutes",
+        "name": "thanatos_tower_f",
+        "number": 12,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t12.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 3,
+        "name": "ghost_attack"
+      },
+      {
+        "level": 3,
+        "name": "piercing_attack"
+      },
+      {
+        "level": 5,
+        "name": "power_up"
+      },
+      {
+        "level": 1,
+        "name": "property_change_shadow"
+      },
+      {
+        "level": 5,
+        "name": "shadow_attack"
+      },
+      {
+        "level": 1,
+        "name": "stop"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1705,
+    "name": "despero_of_thanatos",
+    "display_name": "Despero Of Thanatos",
+    "image": "http://db.irowiki.org/image/monster/1705.png",
+    "race": "undead",
+    "size": "large",
+    "element": "ghost 4",
+    "level": "88",
+    "hp": "86,666",
+    "attack": "2,182 ~ 3,082 (2)",
+    "drops": [
+      {
+        "name": "brigan",
+        "img": "http://db.irowiki.org/image/item/7054.png",
+        "rate": 14.93
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/731.png",
+        "rate": 7.45
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/732.png",
+        "rate": 1.45
+      },
+      {
+        "name": "fragment_of_despair",
+        "img": "http://db.irowiki.org/image/item/7439.png",
+        "rate": 100
+      },
+      {
+        "name": "ancient_card_album",
+        "img": "http://db.irowiki.org/image/item/19468.png",
+        "rate": 0.13
+      },
+      {
+        "name": "goibne_s_greaves",
+        "img": "http://db.irowiki.org/image/item/2419.png",
+        "rate": 14.93
+      },
+      {
+        "name": "despero_of_thanatos_card",
+        "img": "http://db.irowiki.org/image/item/4397.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 2,
+        "frequency": "after_30_minutes",
+        "name": "thanatos_tower_f",
+        "number": 7,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t07.png"
+      },
+      {
+        "amount": 4,
+        "frequency": "after_30_minutes",
+        "name": "thanatos_tower_f",
+        "number": 11,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t11.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "agility_up"
+      },
+      {
+        "level": 1,
+        "name": "critical_slash"
+      },
+      {
+        "level": 4,
+        "name": "fire_attack"
+      },
+      {
+        "level": 5,
+        "name": "ghost_attack"
+      },
+      {
+        "level": 5,
+        "name": "provoke"
+      },
+      {
+        "level": 10,
+        "name": "sightrasher"
+      },
+      {
+        "level": 4,
+        "name": "stun_attack"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1706,
+    "name": "maero_of_thanatos",
+    "display_name": "Maero Of Thanatos",
+    "image": "http://db.irowiki.org/image/monster/1706.png",
+    "race": "undead",
+    "size": "medium",
+    "element": "ghost 4",
+    "level": "83",
+    "hp": "62,000",
+    "attack": "2,022 ~ 2,288 (2)",
+    "drops": [
+      {
+        "name": "brigan",
+        "img": "http://db.irowiki.org/image/item/7054.png",
+        "rate": 14.93
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/731.png",
+        "rate": 7.45
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/732.png",
+        "rate": 1.45
+      },
+      {
+        "name": "fragment_of_misery",
+        "img": "http://db.irowiki.org/image/item/7437.png",
+        "rate": 100
+      },
+      {
+        "name": "ancient_card_album",
+        "img": "http://db.irowiki.org/image/item/19468.png",
+        "rate": 0.13
+      },
+      {
+        "name": "goibne_s_armor",
+        "img": "http://db.irowiki.org/image/item/2354.png",
+        "rate": 14.93
+      },
+      {
+        "name": "maero_of_thanatos_card",
+        "img": "http://db.irowiki.org/image/item/4395.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 2,
+        "frequency": "after_30_minutes",
+        "name": "thanatos_tower_f",
+        "number": 6,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t06.png"
+      },
+      {
+        "amount": 4,
+        "frequency": "after_30_minutes",
+        "name": "thanatos_tower_f",
+        "number": 10,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t10.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 9,
+        "name": "dark_strike"
+      },
+      {
+        "level": 5,
+        "name": "ghost_attack"
+      },
+      {
+        "level": 1,
+        "name": "invisible"
+      },
+      {
+        "level": 10,
+        "name": "sonic_blow"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1707,
+    "name": "dolor_of_thanatos",
+    "display_name": "Dolor Of Thanatos",
+    "image": "http://db.irowiki.org/image/monster/1707.png",
+    "race": "undead",
+    "size": "small",
+    "element": "ghost 4",
+    "level": "83",
+    "hp": "59,922",
+    "attack": "1,392 ~ 2,092 (2)",
+    "drops": [
+      {
+        "name": "brigan",
+        "img": "http://db.irowiki.org/image/item/7054.png",
+        "rate": 14.93
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/731.png",
+        "rate": 7.45
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/732.png",
+        "rate": 1.45
+      },
+      {
+        "name": "fragment_of_agony",
+        "img": "http://db.irowiki.org/image/item/7436.png",
+        "rate": 100
+      },
+      {
+        "name": "ancient_card_album",
+        "img": "http://db.irowiki.org/image/item/19468.png",
+        "rate": 0.13
+      },
+      {
+        "name": "goibne_s_helm",
+        "img": "http://db.irowiki.org/image/item/5128.png",
+        "rate": 14.93
+      },
+      {
+        "name": "dolor_of_thanatos_card",
+        "img": "http://db.irowiki.org/image/item/4398.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 2,
+        "frequency": "after_30_minutes",
+        "name": "thanatos_tower_f",
+        "number": 5,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t05.png"
+      },
+      {
+        "amount": 4,
+        "frequency": "after_30_minutes",
+        "name": "thanatos_tower_f",
+        "number": 9,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/tha_t09.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 9,
+        "name": "dark_thunder"
+      },
+      {
+        "level": 10,
+        "name": "decrease_agi"
+      },
+      {
+        "level": 8,
+        "name": "heal"
+      },
+      {
+        "level": 1,
+        "name": "magical_attack"
+      },
+      {
+        "level": 2,
+        "name": "mental_breaker"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1709,
+    "name": "odium_of_thanatos_ghost",
+    "display_name": "Odium Of Thanatos Ghost",
+    "image": "http://db.irowiki.org/image/monster/1709.png",
+    "race": "undead",
+    "size": "large",
+    "element": "ghost 4",
+    "level": "92",
+    "hp": "72,389",
+    "attack": "2,100 ~ 2,800 (9)",
+    "drops": [
+      {
+        "name": "brigan",
+        "img": "http://db.irowiki.org/image/item/7054.png",
+        "rate": 14.93
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/731.png",
+        "rate": 7.45
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/732.png",
+        "rate": 1.45
+      }
+    ],
+    "maps": [],
+    "skills": [
+      {
+        "level": 3,
+        "name": "ghost_attack"
+      },
+      {
+        "level": 3,
+        "name": "piercing_attack"
+      },
+      {
+        "level": 5,
+        "name": "power_up"
+      },
+      {
+        "level": 1,
+        "name": "property_change_shadow"
+      },
+      {
+        "level": 5,
+        "name": "shadow_attack"
+      },
+      {
+        "level": 1,
+        "name": "stop"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1710,
+    "name": "despero_of_thanatos_ghost",
+    "display_name": "Despero Of Thanatos Ghost",
+    "image": "http://db.irowiki.org/image/monster/1710.png",
+    "race": "undead",
+    "size": "large",
+    "element": "ghost 4",
+    "level": "88",
+    "hp": "86,666",
+    "attack": "2,182 ~ 3,082 (2)",
+    "drops": [
+      {
+        "name": "brigan",
+        "img": "http://db.irowiki.org/image/item/7054.png",
+        "rate": 14.93
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/731.png",
+        "rate": 7.45
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/732.png",
+        "rate": 1.45
+      }
+    ],
+    "maps": [],
+    "skills": [
+      {
+        "level": 5,
+        "name": "agility_up"
+      },
+      {
+        "level": 1,
+        "name": "critical_slash"
+      },
+      {
+        "level": 4,
+        "name": "fire_attack"
+      },
+      {
+        "level": 5,
+        "name": "ghost_attack"
+      },
+      {
+        "level": 10,
+        "name": "provoke"
+      },
+      {
+        "level": 10,
+        "name": "sightrasher"
+      },
+      {
+        "level": 4,
+        "name": "stun_attack"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1711,
+    "name": "maero_of_thanatos_ghost",
+    "display_name": "Maero Of Thanatos Ghost",
+    "image": "http://db.irowiki.org/image/monster/1711.png",
+    "race": "undead",
+    "size": "medium",
+    "element": "ghost 4",
+    "level": "83",
+    "hp": "62,000",
+    "attack": "2,022 ~ 2,288 (2)",
+    "drops": [
+      {
+        "name": "brigan",
+        "img": "http://db.irowiki.org/image/item/7054.png",
+        "rate": 14.93
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/731.png",
+        "rate": 7.45
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/732.png",
+        "rate": 1.45
+      }
+    ],
+    "maps": [],
+    "skills": [
+      {
+        "level": 9,
+        "name": "dark_strike"
+      },
+      {
+        "level": 5,
+        "name": "ghost_attack"
+      },
+      {
+        "level": 1,
+        "name": "invisible"
+      },
+      {
+        "level": 10,
+        "name": "sonic_blow"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1712,
+    "name": "dolor_of_thanatos_ghost",
+    "display_name": "Dolor Of Thanatos Ghost",
+    "image": "http://db.irowiki.org/image/monster/1712.png",
+    "race": "undead",
+    "size": "small",
+    "element": "ghost 4",
+    "level": "83",
+    "hp": "59,922",
+    "attack": "1,392 ~ 2,092 (2)",
+    "drops": [
+      {
+        "name": "brigan",
+        "img": "http://db.irowiki.org/image/item/7054.png",
+        "rate": 14.93
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/731.png",
+        "rate": 7.45
+      },
+      {
+        "name": "carat_diamond",
+        "img": "http://db.irowiki.org/image/item/732.png",
+        "rate": 1.45
+      }
+    ],
+    "maps": [],
+    "skills": [
+      {
+        "level": 9,
+        "name": "dark_thunder"
+      },
+      {
+        "level": 10,
+        "name": "decrease_agi"
+      },
+      {
+        "level": 9,
+        "name": "heal"
+      },
+      {
+        "level": 10,
+        "name": "heal"
+      },
+      {
+        "level": 1,
+        "name": "magical_attack"
+      },
+      {
+        "level": 2,
+        "name": "mental_breaker"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1720,
+    "name": "hydrolancer",
+    "display_name": "Hydrolancer",
+    "image": "http://db.irowiki.org/image/monster/1720.png",
+    "race": "dragon",
+    "size": "large",
+    "element": "shadow 2",
+    "level": "89",
+    "hp": "308,230",
+    "attack": "2,554 ~ 3,910 (3)",
+    "drops": [
+      {
+        "name": "dragon_skin",
+        "img": "http://db.irowiki.org/image/item/7123.png",
+        "rate": 60
+      },
+      {
+        "name": "dragon_canine",
+        "img": "http://db.irowiki.org/image/item/1035.png",
+        "rate": 60
+      },
+      {
+        "name": "three_headed_dragon_s_head",
+        "img": "http://db.irowiki.org/image/item/7443.png",
+        "rate": 58.12
+      },
+      {
+        "name": "morpheus_s_hood",
+        "img": "http://db.irowiki.org/image/item/5126.png",
+        "rate": 7.45
+      },
+      {
+        "name": "morrigane_s_helm",
+        "img": "http://db.irowiki.org/image/item/5127.png",
+        "rate": 7.45
+      },
+      {
+        "name": "immortal_stew",
+        "img": "http://db.irowiki.org/image/item/12085.png",
+        "rate": 4.45
+      },
+      {
+        "name": "fricca_s_circlet",
+        "img": "http://db.irowiki.org/image/item/5124.png",
+        "rate": 7.45
+      },
+      {
+        "name": "hydrolancer_card",
+        "img": "http://db.irowiki.org/image/item/4384.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 6,
+        "frequency": "after_33_min_20_sec",
+        "name": "abyss_lake_dungeon",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/abyss_03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "call_slave"
+      },
+      {
+        "level": 2,
+        "name": "consecutive_attack"
+      },
+      {
+        "level": 1,
+        "name": "critical_slash"
+      },
+      {
+        "level": 4,
+        "name": "dark_breath"
+      },
+      {
+        "level": 10,
+        "name": "heal"
+      },
+      {
+        "level": 10,
+        "name": "meteor_storm"
+      },
+      {
+        "level": 3,
+        "name": "power_up"
+      },
+      {
+        "level": 5,
+        "name": "random_attack"
+      },
+      {
+        "level": 10,
+        "name": "sonic_blow"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1733,
+    "name": "kiel",
+    "display_name": "Kiel",
+    "image": "http://db.irowiki.org/image/monster/1733.png",
+    "race": "formless",
+    "size": "medium",
+    "element": "shadow 2",
+    "level": "90",
+    "hp": "523,000",
+    "attack": "1,682 ~ 3,311 (3)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 10,
+        "name": "bash"
+      },
+      {
+        "level": 6,
+        "name": "brandish_spear"
+      },
+      {
+        "level": 10,
+        "name": "endure"
+      },
+      {
+        "level": 1,
+        "name": "lex_aeterna"
+      },
+      {
+        "level": 5,
+        "name": "lex_divina"
+      },
+      {
+        "level": 5,
+        "name": "magnum_break"
+      },
+      {
+        "level": 1,
+        "name": "pneuma"
+      },
+      {
+        "level": 10,
+        "name": "safety_wall"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1754,
+    "name": "skeggiold_black",
+    "display_name": "Skeggiold Black",
+    "image": "http://db.irowiki.org/image/monster/1754.png",
+    "race": "angel",
+    "size": "small",
+    "element": "holy 2",
+    "level": "81",
+    "hp": "295,200",
+    "attack": "1,400 ~ 2,020 (1)",
+    "drops": [
+      {
+        "name": "rune_of_the_darkness",
+        "img": "http://db.irowiki.org/image/item/7511.png",
+        "rate": 90
+      },
+      {
+        "name": "angel_wing",
+        "img": "http://db.irowiki.org/image/item/2254.png",
+        "rate": 0.02
+      },
+      {
+        "name": "soft_feather",
+        "img": "http://db.irowiki.org/image/item/7063.png",
+        "rate": 14.93
+      },
+      {
+        "name": "divine_cross",
+        "img": "http://db.irowiki.org/image/item/2001.png",
+        "rate": 0.29
+      },
+      {
+        "name": "rune_of_the_darkness",
+        "img": "http://db.irowiki.org/image/item/7511.png",
+        "rate": 14.93
+      },
+      {
+        "name": "silk_robe",
+        "img": "http://db.irowiki.org/image/item/2322.png",
+        "rate": 1.45
+      },
+      {
+        "name": "",
+        "img": "http://db.irowiki.org/image/item/0.png",
+        "rate": 1.45
+      },
+      {
+        "name": "skeggiold_card",
+        "img": "http://db.irowiki.org/image/item/4406.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_30_minutes",
+        "name": "odin_shrine",
+        "number": 2,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/odin_tem02.png"
+      },
+      {
+        "amount": 16,
+        "frequency": "instantly",
+        "name": "odin_shrine",
+        "number": 3,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/odin_tem03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "call_slave"
+      },
+      {
+        "level": 10,
+        "name": "decrease_agi"
+      },
+      {
+        "level": 3,
+        "name": "divest_armor"
+      },
+      {
+        "level": 1,
+        "name": "grampus_morph"
+      },
+      {
+        "level": 9,
+        "name": "heal"
+      },
+      {
+        "level": 3,
+        "name": "holy_attack"
+      },
+      {
+        "level": 2,
+        "name": "petrify_attack"
+      },
+      {
+        "level": 10,
+        "name": "safety_wall"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 7,
+        "name": "thunder_storm"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1755,
+    "name": "skeggiold_blue",
+    "display_name": "Skeggiold Blue",
+    "image": "http://db.irowiki.org/image/monster/1755.png",
+    "race": "angel",
+    "size": "small",
+    "element": "holy 2",
+    "level": "83",
+    "hp": "315,200",
+    "attack": "1,600 ~ 2,050 (1)",
+    "drops": [
+      {
+        "name": "rune_of_the_darkness",
+        "img": "http://db.irowiki.org/image/item/7511.png",
+        "rate": 90
+      },
+      {
+        "name": "angel_wing",
+        "img": "http://db.irowiki.org/image/item/2254.png",
+        "rate": 0.02
+      },
+      {
+        "name": "soft_feather",
+        "img": "http://db.irowiki.org/image/item/7063.png",
+        "rate": 14.93
+      },
+      {
+        "name": "divine_cross",
+        "img": "http://db.irowiki.org/image/item/2001.png",
+        "rate": 0.29
+      },
+      {
+        "name": "rune_of_the_darkness",
+        "img": "http://db.irowiki.org/image/item/7511.png",
+        "rate": 14.93
+      },
+      {
+        "name": "silk_robe",
+        "img": "http://db.irowiki.org/image/item/2322.png",
+        "rate": 1.45
+      },
+      {
+        "name": "",
+        "img": "http://db.irowiki.org/image/item/0.png",
+        "rate": 1.45
+      },
+      {
+        "name": "skeggiold_card",
+        "img": "http://db.irowiki.org/image/item/4406.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_30_minutes",
+        "name": "odin_shrine",
+        "number": 2,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/odin_tem02.png"
+      },
+      {
+        "amount": 16,
+        "frequency": "instantly",
+        "name": "odin_shrine",
+        "number": 3,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/odin_tem03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "call_slave"
+      },
+      {
+        "level": 1,
+        "name": "grampus_morph"
+      },
+      {
+        "level": 9,
+        "name": "heal"
+      },
+      {
+        "level": 3,
+        "name": "holy_attack"
+      },
+      {
+        "level": 3,
+        "name": "holy_cross"
+      },
+      {
+        "level": 10,
+        "name": "safety_wall"
+      },
+      {
+        "level": 7,
+        "name": "soul_strike"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1756,
+    "name": "hydrolancer_ghost",
+    "display_name": "Hydrolancer Ghost",
+    "image": "http://db.irowiki.org/image/monster/1756.png",
+    "race": "dragon",
+    "size": "large",
+    "element": "shadow 2",
+    "level": "89",
+    "hp": "308,230",
+    "attack": "2,554 ~ 3,910 (3)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 1,
+        "name": "call_slave"
+      },
+      {
+        "level": 2,
+        "name": "consecutive_attack"
+      },
+      {
+        "level": 1,
+        "name": "critical_slash"
+      },
+      {
+        "level": 4,
+        "name": "dark_breath"
+      },
+      {
+        "level": 10,
+        "name": "heal"
+      },
+      {
+        "level": 10,
+        "name": "meteor_storm"
+      },
+      {
+        "level": 3,
+        "name": "power_up"
+      },
+      {
+        "level": 5,
+        "name": "random_attack"
+      },
+      {
+        "level": 10,
+        "name": "sonic_blow"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1763,
+    "name": "skeggiold_black_ghost",
+    "display_name": "Skeggiold Black Ghost",
+    "image": "http://db.irowiki.org/image/monster/1763.png",
+    "race": "angel",
+    "size": "small",
+    "element": "holy 2",
+    "level": "81",
+    "hp": "100,200",
+    "attack": "1,400 ~ 3,410 (1)",
+    "drops": [
+      {
+        "name": "rune_of_the_darkness",
+        "img": "http://db.irowiki.org/image/item/7511.png",
+        "rate": 7.45
+      }
+    ],
+    "maps": [],
+    "skills": [
+      {
+        "level": 5,
+        "name": "decrease_agi"
+      },
+      {
+        "level": 2,
+        "name": "holy_attack"
+      },
+      {
+        "level": 2,
+        "name": "petrify_attack"
+      },
+      {
+        "level": 5,
+        "name": "safety_wall"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 4,
+        "name": "thunder_storm"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1764,
+    "name": "skeggiold_blue_ghost",
+    "display_name": "Skeggiold Blue Ghost",
+    "image": "http://db.irowiki.org/image/monster/1764.png",
+    "race": "angel",
+    "size": "small",
+    "element": "holy 2",
+    "level": "83",
+    "hp": "103,000",
+    "attack": "1,600 ~ 4,110 (1)",
+    "drops": [
+      {
+        "name": "rune_of_the_darkness",
+        "img": "http://db.irowiki.org/image/item/7511.png",
+        "rate": 7.45
+      }
+    ],
+    "maps": [],
+    "skills": [
+      {
+        "level": 2,
+        "name": "holy_attack"
+      },
+      {
+        "level": 2,
+        "name": "holy_cross"
+      },
+      {
+        "level": 5,
+        "name": "safety_wall"
+      },
+      {
+        "level": 5,
+        "name": "soul_strike"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1765,
+    "name": "valkyrie",
+    "display_name": "Valkyrie",
+    "image": "http://db.irowiki.org/image/monster/1765.png",
+    "race": "angel",
+    "size": "large",
+    "element": "holy 4",
+    "level": "99",
+    "hp": "1,567,200",
+    "attack": "5,560 ~ 9,980 (3)",
+    "drops": [
+      {
+        "name": "valhala_s_flower",
+        "img": "http://db.irowiki.org/image/item/7510.png",
+        "rate": 7.45
+      },
+      {
+        "name": "old_purple_box",
+        "img": "http://db.irowiki.org/image/item/617.png",
+        "rate": 1.45
+      },
+      {
+        "name": "valkyrja_s_shield",
+        "img": "http://db.irowiki.org/image/item/2115.png",
+        "rate": 7.45
+      },
+      {
+        "name": "valhala_s_flower",
+        "img": "http://db.irowiki.org/image/item/7510.png",
+        "rate": 0
+      },
+      {
+        "name": "valhala_s_flower",
+        "img": "http://db.irowiki.org/image/item/7510.png",
+        "rate": 0
+      },
+      {
+        "name": "valhala_s_flower",
+        "img": "http://db.irowiki.org/image/item/7510.png",
+        "rate": 0
+      },
+      {
+        "name": "valhala_s_flower",
+        "img": "http://db.irowiki.org/image/item/7510.png",
+        "rate": 0
+      },
+      {
+        "name": "valhala_s_flower",
+        "img": "http://db.irowiki.org/image/item/7510.png",
+        "rate": 0
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour_30_min",
+        "name": "odin_shrine",
+        "number": 2,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/odin_tem02.png"
+      },
+      {
+        "amount": 2,
+        "frequency": "after_30_minutes",
+        "name": "odin_shrine",
+        "number": 3,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/odin_tem03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 10,
+        "name": "brandish_spear"
+      },
+      {
+        "level": 10,
+        "name": "break_armor"
+      },
+      {
+        "level": 10,
+        "name": "heal"
+      },
+      {
+        "level": 10,
+        "name": "holy_attack"
+      },
+      {
+        "level": 10,
+        "name": "jupitel_thunder"
+      },
+      {
+        "level": 10,
+        "name": "sonic_blow"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1783,
+    "name": "galion",
+    "display_name": "Galion",
+    "image": "http://db.irowiki.org/image/monster/1783.png",
+    "race": "brute",
+    "size": "medium",
+    "element": "wind 2",
+    "level": "44",
+    "hp": "32,240",
+    "attack": "336 ~ 441 (1)",
+    "drops": [
+      {
+        "name": "rotten_meat",
+        "img": "http://db.irowiki.org/image/item/7564.png",
+        "rate": 44.93
+      },
+      {
+        "name": "animal_skin",
+        "img": "http://db.irowiki.org/image/item/919.png",
+        "rate": 44.93
+      },
+      {
+        "name": "rough_wind",
+        "img": "http://db.irowiki.org/image/item/996.png",
+        "rate": 0.13
+      },
+      {
+        "name": "ulfhedinn",
+        "img": "http://db.irowiki.org/image/item/2531.png",
+        "rate": 0.02
+      },
+      {
+        "name": "galion_card",
+        "img": "http://db.irowiki.org/image/item/4423.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 5,
+        "frequency": "instantly",
+        "name": "rachel_field",
+        "number": 1,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/ra_fild01.png"
+      },
+      {
+        "amount": 15,
+        "frequency": "instantly",
+        "name": "rachel_field",
+        "number": 2,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/oldmap/thumb/ra_fild02.png"
+      },
+      {
+        "amount": 35,
+        "frequency": "instantly",
+        "name": "rachel_field",
+        "number": 3,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/oldmap/thumb/ra_fild03.png"
+      },
+      {
+        "amount": 3,
+        "frequency": "instantly",
+        "name": "rachel_field",
+        "number": 4,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/ra_fild04.png"
+      },
+      {
+        "amount": 20,
+        "frequency": "instantly",
+        "name": "rachel_field",
+        "number": 7,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/oldmap/thumb/ra_fild07.png"
+      },
+      {
+        "amount": 20,
+        "frequency": "instantly",
+        "name": "rachel_field",
+        "number": 10,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/oldmap/thumb/ra_fild10.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "instantly",
+        "name": "veins_field",
+        "number": 5,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/oldmap/thumb/ve_fild05.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "consecutive_attack"
+      },
+      {
+        "level": 1,
+        "name": "shadow_attack"
+      },
+      {
+        "level": 5,
+        "name": "sonic_blow"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 3,
+        "name": "wind_attack"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1791,
+    "name": "galion_ghost",
+    "display_name": "Galion Ghost",
+    "image": "http://db.irowiki.org/image/monster/1791.png",
+    "race": "brute",
+    "size": "medium",
+    "element": "wind 2",
+    "level": "44",
+    "hp": "32,240",
+    "attack": "336 ~ 441 (1)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 1,
+        "name": "consecutive_attack"
+      },
+      {
+        "level": 3,
+        "name": "shadow_attack"
+      },
+      {
+        "level": 5,
+        "name": "sonic_blow"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 3,
+        "name": "wind_attack"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1829,
+    "name": "sword_guardian",
+    "display_name": "Sword Guardian",
+    "image": "http://db.irowiki.org/image/monster/1829.png",
+    "race": "demi_human",
+    "size": "large",
+    "element": "neutral 4",
+    "level": "86",
+    "hp": "152,533",
+    "attack": "7,590 ~ 9,140 (2)",
+    "drops": [
+      {
+        "name": "destroyed_armor",
+        "img": "http://db.irowiki.org/image/item/7069.png",
+        "rate": 44.93
+      },
+      {
+        "name": "doom_slayer",
+        "img": "http://db.irowiki.org/image/item/1370.png",
+        "rate": 0.41
+      },
+      {
+        "name": "claymore",
+        "img": "http://db.irowiki.org/image/item/1163.png",
+        "rate": 0.73
+      },
+      {
+        "name": "zweihander",
+        "img": "http://db.irowiki.org/image/item/1168.png",
+        "rate": 0.02
+      },
+      {
+        "name": "platinum_shield",
+        "img": "http://db.irowiki.org/image/item/2122.png",
+        "rate": 0.13
+      },
+      {
+        "name": "muscle_cutter",
+        "img": "http://db.irowiki.org/image/item/1176.png",
+        "rate": 0.73
+      },
+      {
+        "name": "sword_guardian_card",
+        "img": "http://db.irowiki.org/image/item/4427.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 5,
+        "frequency": "after_7_minutes",
+        "name": "thor_volcano_dungeon",
+        "number": 1,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/thor_v01.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "thor_volcano_dungeon",
+        "number": 2,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/thor_v02.png"
+      },
+      {
+        "amount": 10,
+        "frequency": "multiple",
+        "name": "thor_volcano_dungeon",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/thor_v03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "consecutive_attack"
+      },
+      {
+        "level": 10,
+        "name": "shield_reflect"
+      },
+      {
+        "level": 5,
+        "name": "smite"
+      },
+      {
+        "level": 5,
+        "name": "spear_boomerang"
+      },
+      {
+        "level": 5,
+        "name": "stun_attack"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 10,
+        "name": "twohand_quicken"
+      },
+      {
+        "level": 4,
+        "name": "wide_bleed"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1830,
+    "name": "bow_guardian",
+    "display_name": "Bow Guardian",
+    "image": "http://db.irowiki.org/image/monster/1830.png",
+    "race": "demi_human",
+    "size": "large",
+    "element": "neutral 4",
+    "level": "80",
+    "hp": "80,404",
+    "attack": "1,840 ~ 2,520 (12)",
+    "drops": [
+      {
+        "name": "destroyed_armor",
+        "img": "http://db.irowiki.org/image/item/7069.png",
+        "rate": 44.93
+      },
+      {
+        "name": "luna_bow",
+        "img": "http://db.irowiki.org/image/item/1723.png",
+        "rate": 0.41
+      },
+      {
+        "name": "bow",
+        "img": "http://db.irowiki.org/image/item/1701.png",
+        "rate": 0.73
+      },
+      {
+        "name": "sniping_suit",
+        "img": "http://db.irowiki.org/image/item/2367.png",
+        "rate": 0.25
+      },
+      {
+        "name": "orleans_s_glove",
+        "img": "http://db.irowiki.org/image/item/2701.png",
+        "rate": 0.06
+      },
+      {
+        "name": "bow_guardian_card",
+        "img": "http://db.irowiki.org/image/item/4428.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 5,
+        "frequency": "after_7_minutes",
+        "name": "thor_volcano_dungeon",
+        "number": 1,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/thor_v01.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_2_hours",
+        "name": "thor_volcano_dungeon",
+        "number": 2,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/thor_v02.png"
+      },
+      {
+        "amount": 10,
+        "frequency": "multiple",
+        "name": "thor_volcano_dungeon",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/thor_v03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "arrow_repel"
+      },
+      {
+        "level": 5,
+        "name": "arrow_shower"
+      },
+      {
+        "level": 5,
+        "name": "bleed"
+      },
+      {
+        "level": 5,
+        "name": "consecutive_attack"
+      },
+      {
+        "level": 10,
+        "name": "double_strafe"
+      },
+      {
+        "level": 5,
+        "name": "stun_attack"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 4,
+        "name": "wide_bleed"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1831,
+    "name": "salamander",
+    "display_name": "Salamander",
+    "image": "http://db.irowiki.org/image/monster/1831.png",
+    "race": "formless",
+    "size": "large",
+    "element": "fire 3",
+    "level": "91",
+    "hp": "97,934",
+    "attack": "7,590 ~ 10,860 (2)",
+    "drops": [
+      {
+        "name": "burning_heart",
+        "img": "http://db.irowiki.org/image/item/7097.png",
+        "rate": 44.93
+      },
+      {
+        "name": "flame_heart",
+        "img": "http://db.irowiki.org/image/item/994.png",
+        "rate": 0.41
+      },
+      {
+        "name": "red_gemstone",
+        "img": "http://db.irowiki.org/image/item/716.png",
+        "rate": 1.45
+      },
+      {
+        "name": "lesser_elemental_ring",
+        "img": "http://db.irowiki.org/image/item/2680.png",
+        "rate": 0.02
+      },
+      {
+        "name": "berserk_guitar",
+        "img": "http://db.irowiki.org/image/item/1920.png",
+        "rate": 0.73
+      },
+      {
+        "name": "ring",
+        "img": "http://db.irowiki.org/image/item/2621.png",
+        "rate": 0.02
+      },
+      {
+        "name": "meteo_plate_armor",
+        "img": "http://db.irowiki.org/image/item/2364.png",
+        "rate": 0.25
+      },
+      {
+        "name": "salamander_card",
+        "img": "http://db.irowiki.org/image/item/4429.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 7,
+        "frequency": "multiple",
+        "name": "thor_volcano_dungeon",
+        "number": 1,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/thor_v01.png"
+      },
+      {
+        "amount": 1,
+        "frequency": "after_5_hours",
+        "name": "thor_volcano_dungeon",
+        "number": 2,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/thor_v02.png"
+      },
+      {
+        "amount": 60,
+        "frequency": "instantly",
+        "name": "thor_volcano_dungeon",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/thor_v03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 3,
+        "name": "bleed"
+      },
+      {
+        "level": 1,
+        "name": "critical_slash"
+      },
+      {
+        "level": 5,
+        "name": "fire_attack"
+      },
+      {
+        "level": 5,
+        "name": "fire_ball"
+      },
+      {
+        "level": 7,
+        "name": "magnum_break"
+      },
+      {
+        "level": 3,
+        "name": "shield_reflect"
+      },
+      {
+        "level": 10,
+        "name": "sonic_blow"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 10,
+        "name": "twohand_quicken"
+      },
+      {
+        "level": 2,
+        "name": "wide_bleed"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1833,
+    "name": "kasa",
+    "display_name": "Kasa",
+    "image": "http://db.irowiki.org/image/monster/1833.png",
+    "race": "formless",
+    "size": "large",
+    "element": "fire 3",
+    "level": "85",
+    "hp": "80,375",
+    "attack": "3,030 ~ 3,500 (2)",
+    "drops": [
+      {
+        "name": "burning_heart",
+        "img": "http://db.irowiki.org/image/item/7097.png",
+        "rate": 44.93
+      },
+      {
+        "name": "burning_hair",
+        "img": "http://db.irowiki.org/image/item/7122.png",
+        "rate": 37.45
+      },
+      {
+        "name": "flame_heart",
+        "img": "http://db.irowiki.org/image/item/994.png",
+        "rate": 0.41
+      },
+      {
+        "name": "lesser_elemental_ring",
+        "img": "http://db.irowiki.org/image/item/2680.png",
+        "rate": 0.02
+      },
+      {
+        "name": "lucius_s_fierce_armor_of_volcano",
+        "img": "http://db.irowiki.org/image/item/2344.png",
+        "rate": 0.13
+      },
+      {
+        "name": "burning_bow",
+        "img": "http://db.irowiki.org/image/item/1730.png",
+        "rate": 0.13
+      },
+      {
+        "name": "piercing_staff",
+        "img": "http://db.irowiki.org/image/item/1626.png",
+        "rate": 0.13
+      },
+      {
+        "name": "kasa_card",
+        "img": "http://db.irowiki.org/image/item/4431.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 45,
+        "frequency": "instantly",
+        "name": "thor_volcano_dungeon",
+        "number": 1,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/thor_v01.png"
+      },
+      {
+        "amount": 40,
+        "frequency": "instantly",
+        "name": "thor_volcano_dungeon",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/thor_v03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "clashing_spiral"
+      },
+      {
+        "level": 10,
+        "name": "fire_ball"
+      },
+      {
+        "level": 10,
+        "name": "fire_breath"
+      },
+      {
+        "level": 5,
+        "name": "fire_pillar"
+      },
+      {
+        "level": 1,
+        "name": "ganbantein"
+      },
+      {
+        "level": 1,
+        "name": "meteor_storm"
+      },
+      {
+        "level": 1,
+        "name": "shield_reflect"
+      },
+      {
+        "level": 10,
+        "name": "sightrasher"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1834,
+    "name": "salamander_ghost",
+    "display_name": "Salamander Ghost",
+    "image": "http://db.irowiki.org/image/monster/1834.png",
+    "race": "formless",
+    "size": "large",
+    "element": "fire 3",
+    "level": "91",
+    "hp": "97,934",
+    "attack": "9,590 ~ 12,860 (2)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 3,
+        "name": "bleed"
+      },
+      {
+        "level": 1,
+        "name": "critical_slash"
+      },
+      {
+        "level": 5,
+        "name": "fire_attack"
+      },
+      {
+        "level": 5,
+        "name": "fire_ball"
+      },
+      {
+        "level": 7,
+        "name": "magnum_break"
+      },
+      {
+        "level": 3,
+        "name": "shield_reflect"
+      },
+      {
+        "level": 10,
+        "name": "sonic_blow"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 10,
+        "name": "twohand_quicken"
+      },
+      {
+        "level": 2,
+        "name": "wide_bleed"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1835,
+    "name": "kasa_ghost",
+    "display_name": "Kasa Ghost",
+    "image": "http://db.irowiki.org/image/monster/1835.png",
+    "race": "formless",
+    "size": "large",
+    "element": "fire 3",
+    "level": "85",
+    "hp": "80,375",
+    "attack": "3,030 ~ 3,500 (2)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 1,
+        "name": "clashing_spiral"
+      },
+      {
+        "level": 10,
+        "name": "fire_ball"
+      },
+      {
+        "level": 10,
+        "name": "fire_breath"
+      },
+      {
+        "level": 5,
+        "name": "fire_pillar"
+      },
+      {
+        "level": 1,
+        "name": "meteor_storm"
+      },
+      {
+        "level": 10,
+        "name": "sightrasher"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1839,
+    "name": "byorgue",
+    "display_name": "Byorgue",
+    "image": "http://db.irowiki.org/image/monster/1839.png",
+    "race": "demi_human",
+    "size": "medium",
+    "element": "neutral 1",
+    "level": "86",
+    "hp": "38,133",
+    "attack": "1,340 ~ 2,590 (2)",
+    "drops": [
+      {
+        "name": "drill_katar",
+        "img": "http://db.irowiki.org/image/item/1270.png",
+        "rate": 0.73
+      },
+      {
+        "name": "assassin_mask",
+        "img": "http://db.irowiki.org/image/item/5096.png",
+        "rate": 0.02
+      },
+      {
+        "name": "scalpel",
+        "img": "http://db.irowiki.org/image/item/13027.png",
+        "rate": 2.17
+      },
+      {
+        "name": "steamed_alligator_with_vegetable",
+        "img": "http://db.irowiki.org/image/item/12087.png",
+        "rate": 1.45
+      },
+      {
+        "name": "old_blue_box",
+        "img": "http://db.irowiki.org/image/item/603.png",
+        "rate": 0.53
+      },
+      {
+        "name": "rider_insignia",
+        "img": "http://db.irowiki.org/image/item/2530.png",
+        "rate": 0.02
+      },
+      {
+        "name": "broken_sword",
+        "img": "http://db.irowiki.org/image/item/7110.png",
+        "rate": 65.44
+      },
+      {
+        "name": "byorgue_card",
+        "img": "http://db.irowiki.org/image/item/4426.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 1,
+        "frequency": "after_1_hour",
+        "name": "thor_volcano_dungeon",
+        "number": 1,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/thor_v01.png"
+      },
+      {
+        "amount": 5,
+        "frequency": "after_30_minutes",
+        "name": "thor_volcano_dungeon",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/thor_v03.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "bash"
+      },
+      {
+        "level": 1,
+        "name": "call_slave"
+      },
+      {
+        "level": 1,
+        "name": "critical_slash"
+      },
+      {
+        "level": 5,
+        "name": "grimtooth"
+      },
+      {
+        "level": 2,
+        "name": "meteor_assault"
+      },
+      {
+        "level": 5,
+        "name": "sonic_blow"
+      },
+      {
+        "level": 3,
+        "name": "soul_destroyer"
+      },
+      {
+        "level": 5,
+        "name": "stun_attack"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1851,
+    "name": "mobster_ghost",
+    "display_name": "Mobster Ghost",
+    "image": "http://db.irowiki.org/image/monster/1851.png",
+    "race": "demi_human",
+    "size": "medium",
+    "element": "neutral 1",
+    "level": "61",
+    "hp": "7,991",
+    "attack": "910 ~ 1,128 (1)",
+    "drops": [],
+    "maps": [],
+    "skills": [],
+    "category": "boss"
+  },
+  {
+    "id": 1870,
+    "name": "necromancer",
+    "display_name": "Necromancer",
+    "image": "http://db.irowiki.org/image/monster/1870.png",
+    "race": "undead",
+    "size": "medium",
+    "element": "undead 4",
+    "level": "88",
+    "hp": "98,000",
+    "attack": "3,500 ~ 4,000 (1)",
+    "drops": [
+      {
+        "name": "clattering_skull",
+        "img": "http://db.irowiki.org/image/item/7752.png",
+        "rate": 44.93
+      },
+      {
+        "name": "lich_s_bone_wand",
+        "img": "http://db.irowiki.org/image/item/1624.png",
+        "rate": 0.25
+      },
+      {
+        "name": "skel_bone",
+        "img": "http://db.irowiki.org/image/item/932.png",
+        "rate": 67.44
+      },
+      {
+        "name": "mithril_magic_cape",
+        "img": "http://db.irowiki.org/image/item/2532.png",
+        "rate": 0.13
+      },
+      {
+        "name": "blue_gemstone",
+        "img": "http://db.irowiki.org/image/item/717.png",
+        "rate": 1.45
+      },
+      {
+        "name": "amulet",
+        "img": "http://db.irowiki.org/image/item/609.png",
+        "rate": 1.45
+      },
+      {
+        "name": "torn_magic_book",
+        "img": "http://db.irowiki.org/image/item/7117.png",
+        "rate": 22.45
+      },
+      {
+        "name": "necromancer_card",
+        "img": "http://db.irowiki.org/image/item/4440.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [
+      {
+        "amount": 7,
+        "frequency": "instantly",
+        "name": "cursed_monastery",
+        "number": 2,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/abbey02.png"
+      },
+      {
+        "amount": 60,
+        "frequency": "instantly",
+        "name": "cursed_monastery",
+        "number": 3,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/abbey03.png"
+      },
+      {
+        "amount": 18,
+        "frequency": "instantly",
+        "name": "guild_dungeon_valfreyja",
+        "number": 0,
+        "type": "dungeon",
+        "img": "http://db.irowiki.org/image/map/thumb/arug_dun01.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "area_curse"
+      },
+      {
+        "level": 1,
+        "name": "call_slave"
+      },
+      {
+        "level": 5,
+        "name": "dark_strike"
+      },
+      {
+        "level": 1,
+        "name": "darkness_breath"
+      },
+      {
+        "level": 2,
+        "name": "dragon_fear"
+      },
+      {
+        "level": 2,
+        "name": "fatal_wound"
+      },
+      {
+        "level": 5,
+        "name": "fire_ball"
+      },
+      {
+        "level": 3,
+        "name": "meteor_storm"
+      },
+      {
+        "level": 1,
+        "name": "property_change_undead"
+      },
+      {
+        "level": 5,
+        "name": "quagmire"
+      },
+      {
+        "level": 3,
+        "name": "shadow_attack"
+      },
+      {
+        "level": 10,
+        "name": "shield_reflect"
+      },
+      {
+        "level": 1,
+        "name": "slow_cast"
+      },
+      {
+        "level": 3,
+        "name": "stone_skin"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 5,
+        "name": "thunder_storm"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1872,
+    "name": "hell_fly",
+    "display_name": "Hell Fly",
+    "image": "http://db.irowiki.org/image/monster/1872.png",
+    "race": "insect",
+    "size": "small",
+    "element": "wind 4",
+    "level": "66",
+    "hp": "500,000",
+    "attack": "1,200 ~ 2,000 (1)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 1,
+        "name": "blood_drain"
+      },
+      {
+        "level": 1,
+        "name": "consecutive_attack"
+      },
+      {
+        "level": 5,
+        "name": "fatal_wound"
+      },
+      {
+        "level": 1,
+        "name": "mental_breaker"
+      },
+      {
+        "level": 4,
+        "name": "wind_attack"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1891,
+    "name": "valkyrie_ghost",
+    "display_name": "Valkyrie Ghost",
+    "image": "http://db.irowiki.org/image/monster/1891.png",
+    "race": "angel",
+    "size": "large",
+    "element": "holy 4",
+    "level": "99",
+    "hp": "1,567,200",
+    "attack": "5,560 ~ 9,980 (3)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 10,
+        "name": "brandish_spear"
+      },
+      {
+        "level": 10,
+        "name": "break_armor"
+      },
+      {
+        "level": 10,
+        "name": "heal"
+      },
+      {
+        "level": 10,
+        "name": "holy_attack"
+      },
+      {
+        "level": 10,
+        "name": "jupitel_thunder"
+      },
+      {
+        "level": 10,
+        "name": "sonic_blow"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1899,
+    "name": "sword_guardian_wo_e",
+    "display_name": "Sword Guardian Wo E",
+    "image": "http://db.irowiki.org/image/monster/1899.png",
+    "race": "demi_human",
+    "size": "large",
+    "element": "neutral 4",
+    "level": "86",
+    "hp": "152,533",
+    "attack": "7,590 ~ 9,140 (2)",
+    "drops": [],
+    "maps": [],
+    "skills": [],
+    "category": "boss"
+  },
+  {
+    "id": 1905,
+    "name": "barricade",
+    "display_name": "Barricade",
+    "image": "http://db.irowiki.org/image/monster/1905.png",
+    "race": "formless",
+    "size": "large",
+    "element": "neutral 1",
+    "level": "98",
+    "hp": "450,000",
+    "attack": "0 ~ 0 (1)",
+    "drops": [],
+    "maps": [],
+    "skills": [],
+    "category": "boss"
+  },
+  {
+    "id": 1907,
+    "name": "guardian_stone_first",
+    "display_name": "Guardian Stone First",
+    "image": "http://db.irowiki.org/image/monster/1907.png",
+    "race": "formless",
+    "size": "small",
+    "element": "neutral 1",
+    "level": "90",
+    "hp": "150,000",
+    "attack": "1 ~ 2 (0)",
+    "drops": [],
+    "maps": [],
+    "skills": [],
+    "category": "boss"
+  },
+  {
+    "id": 1908,
+    "name": "guardian_stone_second",
+    "display_name": "Guardian Stone Second",
+    "image": "http://db.irowiki.org/image/monster/1908.png",
+    "race": "formless",
+    "size": "small",
+    "element": "neutral 1",
+    "level": "90",
+    "hp": "150,000",
+    "attack": "1 ~ 2 (0)",
+    "drops": [],
+    "maps": [],
+    "skills": [],
+    "category": "boss"
+  },
+  {
+    "id": 1916,
+    "name": "satan_morrocc",
+    "display_name": "Satan Morrocc",
+    "image": "http://db.irowiki.org/image/monster/1916.png",
+    "race": "demon",
+    "size": "large",
+    "element": "shadow 4",
+    "level": "99",
+    "hp": "8,388,607",
+    "attack": "32,000 ~ 32,001 (2)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 10,
+        "name": "area_soul_drain"
+      },
+      {
+        "level": 5,
+        "name": "area_stun"
+      },
+      {
+        "level": 10,
+        "name": "break_shield"
+      },
+      {
+        "level": 1,
+        "name": "call_slave"
+      },
+      {
+        "level": 10,
+        "name": "dragon_fear"
+      },
+      {
+        "level": 10,
+        "name": "earthquake"
+      },
+      {
+        "level": 10,
+        "name": "evil_land"
+      },
+      {
+        "level": 10,
+        "name": "fire_bolt"
+      },
+      {
+        "level": 10,
+        "name": "frost_diver"
+      },
+      {
+        "level": 10,
+        "name": "heal"
+      },
+      {
+        "level": 1,
+        "name": "hell_dignity"
+      },
+      {
+        "level": 1,
+        "name": "hell_power"
+      },
+      {
+        "level": 5,
+        "name": "hell_s_judgment"
+      },
+      {
+        "level": 10,
+        "name": "jupitel_thunder"
+      },
+      {
+        "level": 1,
+        "name": "magnetic_earth"
+      },
+      {
+        "level": 5,
+        "name": "meteor_storm"
+      },
+      {
+        "level": 1,
+        "name": "pneuma"
+      },
+      {
+        "level": 5,
+        "name": "pulse_strike"
+      },
+      {
+        "level": 10,
+        "name": "stone_curse"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "talk"
+      },
+      {
+        "level": 10,
+        "name": "talk"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 9,
+        "name": "vampire_s_gift"
+      },
+      {
+        "level": 5,
+        "name": "wide_sleep"
+      },
+      {
+        "level": 5,
+        "name": "wide_stone_curse"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1918,
+    "name": "incarnation_of_morocc_angel",
+    "display_name": "Incarnation Of Morocc Angel",
+    "image": "http://db.irowiki.org/image/monster/1918.png",
+    "race": "angel",
+    "size": "large",
+    "element": "shadow 1",
+    "level": "97",
+    "hp": "190,000",
+    "attack": "7,000 ~ 8,600 (2)",
+    "drops": [
+      {
+        "name": "sacred_mission",
+        "img": "http://db.irowiki.org/image/item/2111.png",
+        "rate": 0.13
+      },
+      {
+        "name": "crystal_of_darkness",
+        "img": "http://db.irowiki.org/image/item/7799.png",
+        "rate": 14.93
+      },
+      {
+        "name": "fragment_of_darkness",
+        "img": "http://db.irowiki.org/image/item/7798.png",
+        "rate": 44.93
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 2.41
+      },
+      {
+        "name": "brigan",
+        "img": "http://db.irowiki.org/image/item/7054.png",
+        "rate": 72.72
+      },
+      {
+        "name": "diabolus_manteau",
+        "img": "http://db.irowiki.org/image/item/2537.png",
+        "rate": 0.02
+      },
+      {
+        "name": "nemesis",
+        "img": "http://db.irowiki.org/image/item/1541.png",
+        "rate": 0.25
+      }
+    ],
+    "maps": [
+      {
+        "amount": 46,
+        "frequency": "after_30_seconds",
+        "name": "sograt_desert",
+        "number": 21,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/moc_fild21.png"
+      },
+      {
+        "amount": 65,
+        "frequency": "after_30_seconds",
+        "name": "sograt_desert",
+        "number": 22,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/moc_fild22.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "area_curse"
+      },
+      {
+        "level": 5,
+        "name": "dispell"
+      },
+      {
+        "level": 5,
+        "name": "grand_darkness"
+      },
+      {
+        "level": 10,
+        "name": "heal"
+      },
+      {
+        "level": 1,
+        "name": "magic_mirror"
+      },
+      {
+        "level": 1,
+        "name": "pneuma"
+      },
+      {
+        "level": 5,
+        "name": "pulse_strike"
+      },
+      {
+        "level": 5,
+        "name": "slow_cast"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1919,
+    "name": "incarnation_of_morocc_golem",
+    "display_name": "Incarnation Of Morocc Golem",
+    "image": "http://db.irowiki.org/image/monster/1919.png",
+    "race": "demon",
+    "size": "medium",
+    "element": "shadow 3",
+    "level": "97",
+    "hp": "190,000",
+    "attack": "3,500 ~ 5,100 (1)",
+    "drops": [
+      {
+        "name": "skin_of_ventus",
+        "img": "http://db.irowiki.org/image/item/2536.png",
+        "rate": 0.02
+      },
+      {
+        "name": "crystal_of_darkness",
+        "img": "http://db.irowiki.org/image/item/7799.png",
+        "rate": 14.93
+      },
+      {
+        "name": "fragment_of_darkness",
+        "img": "http://db.irowiki.org/image/item/7798.png",
+        "rate": 44.93
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 2.41
+      },
+      {
+        "name": "cyfar",
+        "img": "http://db.irowiki.org/image/item/7053.png",
+        "rate": 52.44
+      },
+      {
+        "name": "cross_shield",
+        "img": "http://db.irowiki.org/image/item/2130.png",
+        "rate": 0.17
+      }
+    ],
+    "maps": [
+      {
+        "amount": 46,
+        "frequency": "after_30_seconds",
+        "name": "sograt_desert",
+        "number": 21,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/moc_fild21.png"
+      },
+      {
+        "amount": 65,
+        "frequency": "after_30_seconds",
+        "name": "sograt_desert",
+        "number": 22,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/moc_fild22.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "blood_drain"
+      },
+      {
+        "level": 1,
+        "name": "earthquake"
+      },
+      {
+        "level": 10,
+        "name": "heal"
+      },
+      {
+        "level": 10,
+        "name": "magnum_break"
+      },
+      {
+        "level": 1,
+        "name": "pneuma"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 1,
+        "name": "wide_bleed"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1920,
+    "name": "incarnation_of_morocc_human",
+    "display_name": "Incarnation Of Morocc Human",
+    "image": "http://db.irowiki.org/image/monster/1920.png",
+    "race": "demon",
+    "size": "medium",
+    "element": "undead 3",
+    "level": "96",
+    "hp": "143,000",
+    "attack": "3,400 ~ 5,000 (1)",
+    "drops": [
+      {
+        "name": "ragamuffin_manteau",
+        "img": "http://db.irowiki.org/image/item/2508.png",
+        "rate": 0.13
+      },
+      {
+        "name": "crystal_of_darkness",
+        "img": "http://db.irowiki.org/image/item/7799.png",
+        "rate": 14.93
+      },
+      {
+        "name": "fragment_of_darkness",
+        "img": "http://db.irowiki.org/image/item/7798.png",
+        "rate": 44.93
+      },
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 2.41
+      },
+      {
+        "name": "brigan",
+        "img": "http://db.irowiki.org/image/item/7054.png",
+        "rate": 72.72
+      },
+      {
+        "name": "cursed_hand",
+        "img": "http://db.irowiki.org/image/item/2728.png",
+        "rate": 0.02
+      },
+      {
+        "name": "bloody_eater",
+        "img": "http://db.irowiki.org/image/item/1182.png",
+        "rate": 0.17
+      }
+    ],
+    "maps": [
+      {
+        "amount": 46,
+        "frequency": "after_30_seconds",
+        "name": "sograt_desert",
+        "number": 21,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/moc_fild21.png"
+      },
+      {
+        "amount": 65,
+        "frequency": "after_30_seconds",
+        "name": "sograt_desert",
+        "number": 22,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/moc_fild22.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 1,
+        "name": "energy_drain"
+      },
+      {
+        "level": 3,
+        "name": "fatal_wound"
+      },
+      {
+        "level": 10,
+        "name": "heal"
+      },
+      {
+        "level": 1,
+        "name": "pneuma"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 5,
+        "name": "wide_silence"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1921,
+    "name": "incarnation_of_morocc_spirit",
+    "display_name": "Incarnation Of Morocc Spirit",
+    "image": "http://db.irowiki.org/image/monster/1921.png",
+    "race": "demon",
+    "size": "medium",
+    "element": "ghost 3",
+    "level": "98",
+    "hp": "150,000",
+    "attack": "3,000 ~ 4,025 (1)",
+    "drops": [
+      {
+        "name": "diabolus_ring",
+        "img": "http://db.irowiki.org/image/item/2729.png",
+        "rate": 0.06
+      },
+      {
+        "name": "crystal_of_darkness",
+        "img": "http://db.irowiki.org/image/item/7799.png",
+        "rate": 14.93
+      },
+      {
+        "name": "fragment_of_darkness",
+        "img": "http://db.irowiki.org/image/item/7798.png",
+        "rate": 44.93
+      },
+      {
+        "name": "oridecon",
+        "img": "http://db.irowiki.org/image/item/984.png",
+        "rate": 2.41
+      },
+      {
+        "name": "cyfar",
+        "img": "http://db.irowiki.org/image/item/7053.png",
+        "rate": 52.44
+      },
+      {
+        "name": "exorcism_bible",
+        "img": "http://db.irowiki.org/image/item/2129.png",
+        "rate": 0.25
+      }
+    ],
+    "maps": [
+      {
+        "amount": 34,
+        "frequency": "after_30_seconds",
+        "name": "sograt_desert",
+        "number": 21,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/moc_fild21.png"
+      },
+      {
+        "amount": 30,
+        "frequency": "after_10_seconds",
+        "name": "sograt_desert",
+        "number": 22,
+        "type": "field",
+        "img": "http://db.irowiki.org/image/map/thumb/moc_fild22.png"
+      }
+    ],
+    "skills": [
+      {
+        "level": 5,
+        "name": "assumptio"
+      },
+      {
+        "level": 10,
+        "name": "heal"
+      },
+      {
+        "level": 1,
+        "name": "pneuma"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1922,
+    "name": "shadow_of_morocc_angel",
+    "display_name": "Shadow Of Morocc Angel",
+    "image": "http://db.irowiki.org/image/monster/1922.png",
+    "race": "angel",
+    "size": "large",
+    "element": "shadow 1",
+    "level": "97",
+    "hp": "1,200,000",
+    "attack": "16,000 ~ 16,001 (2)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 5,
+        "name": "dispell"
+      },
+      {
+        "level": 1,
+        "name": "exile"
+      },
+      {
+        "level": 5,
+        "name": "grand_darkness"
+      },
+      {
+        "level": 5,
+        "name": "jupitel_thunder"
+      },
+      {
+        "level": 5,
+        "name": "lord_of_vermilion"
+      },
+      {
+        "level": 1,
+        "name": "magic_mirror"
+      },
+      {
+        "level": 5,
+        "name": "pulse_strike"
+      },
+      {
+        "level": 5,
+        "name": "slow_cast"
+      },
+      {
+        "level": 10,
+        "name": "twohand_quicken"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1923,
+    "name": "shadow_of_morocc_golem",
+    "display_name": "Shadow Of Morocc Golem",
+    "image": "http://db.irowiki.org/image/monster/1923.png",
+    "race": "demon",
+    "size": "medium",
+    "element": "shadow 3",
+    "level": "97",
+    "hp": "1,200,000",
+    "attack": "16,000 ~ 16,001 (1)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 1,
+        "name": "blood_drain"
+      },
+      {
+        "level": 1,
+        "name": "earthquake"
+      },
+      {
+        "level": 10,
+        "name": "magnum_break"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 2,
+        "name": "wide_bleed"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1924,
+    "name": "shadow_of_morocc_human",
+    "display_name": "Shadow Of Morocc Human",
+    "image": "http://db.irowiki.org/image/monster/1924.png",
+    "race": "demon",
+    "size": "medium",
+    "element": "undead 3",
+    "level": "96",
+    "hp": "1,200,000",
+    "attack": "16,000 ~ 16,001 (1)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 1,
+        "name": "energy_drain"
+      },
+      {
+        "level": 4,
+        "name": "fatal_wound"
+      },
+      {
+        "level": 2,
+        "name": "wide_silence"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1925,
+    "name": "shadow_of_morocc_spirit",
+    "display_name": "Shadow Of Morocc Spirit",
+    "image": "http://db.irowiki.org/image/monster/1925.png",
+    "race": "demon",
+    "size": "medium",
+    "element": "ghost 3",
+    "level": "98",
+    "hp": "1,200,000",
+    "attack": "16,000 ~ 16,001 (1)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 5,
+        "name": "assumptio"
+      },
+      {
+        "level": 10,
+        "name": "heal"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1929,
+    "name": "unsealed_baphomet",
+    "display_name": "Unsealed Baphomet",
+    "image": "http://db.irowiki.org/image/monster/1929.png",
+    "race": "demon",
+    "size": "large",
+    "element": "shadow 3",
+    "level": "98",
+    "hp": "4,520,000",
+    "attack": "16,000 ~ 16,001 (1)",
+    "drops": [
+      {
+        "name": "cursed_baphomet_doll",
+        "img": "http://db.irowiki.org/image/item/6004.png",
+        "rate": 7.45
+      },
+      {
+        "name": "pauldron",
+        "img": "http://db.irowiki.org/image/item/2514.png",
+        "rate": 100
+      },
+      {
+        "name": "tae_goo_lyeon",
+        "img": "http://db.irowiki.org/image/item/1181.png",
+        "rate": 74.92
+      },
+      {
+        "name": "bloodied_shackle_ball",
+        "img": "http://db.irowiki.org/image/item/2655.png",
+        "rate": 1.45
+      },
+      {
+        "name": "heavenly_maiden_robe",
+        "img": "http://db.irowiki.org/image/item/2513.png",
+        "rate": 100
+      },
+      {
+        "name": "holy_robe",
+        "img": "http://db.irowiki.org/image/item/2327.png",
+        "rate": 100
+      },
+      {
+        "name": "crescent_scythe",
+        "img": "http://db.irowiki.org/image/item/1466.png",
+        "rate": 100
+      },
+      {
+        "name": "baphomet_card",
+        "img": "http://db.irowiki.org/image/item/4147.png",
+        "rate": 0.03
+      }
+    ],
+    "maps": [],
+    "skills": [
+      {
+        "level": 10,
+        "name": "brandish_spear"
+      },
+      {
+        "level": 10,
+        "name": "break_armor"
+      },
+      {
+        "level": 1,
+        "name": "call_slave"
+      },
+      {
+        "level": 1,
+        "name": "dark_breath"
+      },
+      {
+        "level": 10,
+        "name": "dark_strike"
+      },
+      {
+        "level": 3,
+        "name": "darkness_breath"
+      },
+      {
+        "level": 10,
+        "name": "evil_land"
+      },
+      {
+        "level": 3,
+        "name": "hell_s_judgment"
+      },
+      {
+        "level": 1,
+        "name": "invincible"
+      },
+      {
+        "level": 1,
+        "name": "life_stream"
+      },
+      {
+        "level": 10,
+        "name": "lord_of_vermilion"
+      },
+      {
+        "level": 5,
+        "name": "pulse_strike"
+      },
+      {
+        "level": 1,
+        "name": "snap"
+      },
+      {
+        "level": 5,
+        "name": "sonic_blow"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "talk"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1956,
+    "name": "naght_sieger",
+    "display_name": "Naght Sieger",
+    "image": "http://db.irowiki.org/image/monster/1956.png",
+    "race": "demon",
+    "size": "large",
+    "element": "ghost 4",
+    "level": "99",
+    "hp": "8,000,000",
+    "attack": "32,000 ~ 32,767 (2)",
+    "drops": [
+      {
+        "name": "twin_edge_of_naght_sieger_blue",
+        "img": "http://db.irowiki.org/image/item/13412.png",
+        "rate": 100
+      },
+      {
+        "name": "twin_edge_of_naght_sieger_red",
+        "img": "http://db.irowiki.org/image/item/13413.png",
+        "rate": 100
+      },
+      {
+        "name": "flame_manteau_of_naght_sieger",
+        "img": "http://db.irowiki.org/image/item/2542.png",
+        "rate": 100
+      },
+      {
+        "name": "bone_helm",
+        "img": "http://db.irowiki.org/image/item/5017.png",
+        "rate": 100
+      },
+      {
+        "name": "ancient_card_album",
+        "img": "http://db.irowiki.org/image/item/19468.png",
+        "rate": 100
+      },
+      {
+        "name": "pauldron",
+        "img": "http://db.irowiki.org/image/item/2514.png",
+        "rate": 100
+      },
+      {
+        "name": "turquoise",
+        "img": "http://db.irowiki.org/image/item/7294.png",
+        "rate": 100
+      }
+    ],
+    "maps": [],
+    "skills": [
+      {
+        "level": 5,
+        "name": "agility_up"
+      },
+      {
+        "level": 3,
+        "name": "brandish_spear"
+      },
+      {
+        "level": 10,
+        "name": "break_shield"
+      },
+      {
+        "level": 1,
+        "name": "call_slave"
+      },
+      {
+        "level": 10,
+        "name": "dark_strike"
+      },
+      {
+        "level": 1,
+        "name": "fire_attack"
+      },
+      {
+        "level": 1,
+        "name": "hallucination"
+      },
+      {
+        "level": 3,
+        "name": "hell_s_judgment"
+      },
+      {
+        "level": 1,
+        "name": "life_stream"
+      },
+      {
+        "level": 10,
+        "name": "meteor_storm"
+      },
+      {
+        "level": 3,
+        "name": "soul_destroyer"
+      },
+      {
+        "level": 10,
+        "name": "storm_gust"
+      },
+      {
+        "level": 2,
+        "name": "stun_attack"
+      },
+      {
+        "level": 5,
+        "name": "stun_attack"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 10,
+        "name": "twohand_quicken"
+      },
+      {
+        "level": 1,
+        "name": "water_attack"
+      },
+      {
+        "level": 5,
+        "name": "wide_freeze"
+      },
+      {
+        "level": 5,
+        "name": "wide_silence"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1957,
+    "name": "entweihen_crothen",
+    "display_name": "Entweihen Crothen",
+    "image": "http://db.irowiki.org/image/monster/1957.png",
+    "race": "demon",
+    "size": "medium",
+    "element": "shadow 4",
+    "level": "90",
+    "hp": "5,400,000",
+    "attack": "32,000 ~ 32,767 (12)",
+    "drops": [
+      {
+        "name": "thorn_staff_of_darkness",
+        "img": "http://db.irowiki.org/image/item/1636.png",
+        "rate": 100
+      },
+      {
+        "name": "holy_stick",
+        "img": "http://db.irowiki.org/image/item/1631.png",
+        "rate": 100
+      },
+      {
+        "name": "heavenly_maiden_robe",
+        "img": "http://db.irowiki.org/image/item/2513.png",
+        "rate": 100
+      },
+      {
+        "name": "lich_s_bone_wand",
+        "img": "http://db.irowiki.org/image/item/1624.png",
+        "rate": 100
+      },
+      {
+        "name": "ancient_card_album",
+        "img": "http://db.irowiki.org/image/item/19468.png",
+        "rate": 100
+      },
+      {
+        "name": "survivor_s_rod_dex",
+        "img": "http://db.irowiki.org/image/item/1618.png",
+        "rate": 100
+      },
+      {
+        "name": "agate",
+        "img": "http://db.irowiki.org/image/item/7291.png",
+        "rate": 100
+      }
+    ],
+    "maps": [],
+    "skills": [
+      {
+        "level": 5,
+        "name": "area_curse"
+      },
+      {
+        "level": 3,
+        "name": "arrow_shower"
+      },
+      {
+        "level": 10,
+        "name": "dark_strike"
+      },
+      {
+        "level": 5,
+        "name": "defender"
+      },
+      {
+        "level": 4,
+        "name": "evil_land"
+      },
+      {
+        "level": 1,
+        "name": "life_stream"
+      },
+      {
+        "level": 10,
+        "name": "meteor_storm"
+      },
+      {
+        "level": 5,
+        "name": "pulse_strike"
+      },
+      {
+        "level": 3,
+        "name": "shadow_attack"
+      },
+      {
+        "level": 5,
+        "name": "soul_destroyer"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1958,
+    "name": "thorny_skeleton",
+    "display_name": "Thorny Skeleton",
+    "image": "http://db.irowiki.org/image/monster/1958.png",
+    "race": "demon",
+    "size": "small",
+    "element": "shadow 4",
+    "level": "89",
+    "hp": "5,400,000",
+    "attack": "4,040 ~ 4,720 (12)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 3,
+        "name": "arrow_shower"
+      },
+      {
+        "level": 5,
+        "name": "defender"
+      },
+      {
+        "level": 3,
+        "name": "focused_arrow_strike"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1959,
+    "name": "thorn_of_recovery",
+    "display_name": "Thorn Of Recovery",
+    "image": "http://db.irowiki.org/image/monster/1959.png",
+    "race": "demon",
+    "size": "small",
+    "element": "shadow 4",
+    "level": "89",
+    "hp": "350,000",
+    "attack": "2,040 ~ 2,720 (12)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 5,
+        "name": "defender"
+      },
+      {
+        "level": 10,
+        "name": "heal"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1960,
+    "name": "thorn_of_magic",
+    "display_name": "Thorn Of Magic",
+    "image": "http://db.irowiki.org/image/monster/1960.png",
+    "race": "demon",
+    "size": "small",
+    "element": "shadow 4",
+    "level": "89",
+    "hp": "5,400,000",
+    "attack": "2,040 ~ 2,720 (12)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 7,
+        "name": "cold_bolt"
+      },
+      {
+        "level": 5,
+        "name": "dark_thunder"
+      },
+      {
+        "level": 5,
+        "name": "defender"
+      },
+      {
+        "level": 7,
+        "name": "fire_bolt"
+      },
+      {
+        "level": 9,
+        "name": "frost_diver"
+      },
+      {
+        "level": 3,
+        "name": "heaven_s_drive"
+      },
+      {
+        "level": 7,
+        "name": "lightning_bolt"
+      },
+      {
+        "level": 9,
+        "name": "soul_strike"
+      },
+      {
+        "level": 5,
+        "name": "storm_gust"
+      },
+      {
+        "level": 5,
+        "name": "thunder_storm"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1961,
+    "name": "thorn_of_purification",
+    "display_name": "Thorn Of Purification",
+    "image": "http://db.irowiki.org/image/monster/1961.png",
+    "race": "demon",
+    "size": "small",
+    "element": "shadow 4",
+    "level": "89",
+    "hp": "5,400,000",
+    "attack": "2,040 ~ 2,720 (12)",
+    "drops": [],
+    "maps": [],
+    "skills": [
+      {
+        "level": 5,
+        "name": "defender"
+      },
+      {
+        "level": 5,
+        "name": "dispell"
+      },
+      {
+        "level": 5,
+        "name": "slow_cast"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1990,
+    "name": "hardrock_mammoth",
+    "display_name": "Hardrock Mammoth",
+    "image": "http://db.irowiki.org/image/monster/1990.png",
+    "race": "brute",
+    "size": "large",
+    "element": "earth 3",
+    "level": "115",
+    "hp": "4,137,000",
+    "attack": "30,000 ~ 32,767 (2)",
+    "drops": [
+      {
+        "name": "elunium",
+        "img": "http://db.irowiki.org/image/item/985.png",
+        "rate": 90
+      },
+      {
+        "name": "hard_skin",
+        "img": "http://db.irowiki.org/image/item/6022.png",
+        "rate": 90
+      },
+      {
+        "name": "ivory_lance",
+        "img": "http://db.irowiki.org/image/item/1483.png",
+        "rate": 5
+      },
+      {
+        "name": "ivory_knife",
+        "img": "http://db.irowiki.org/image/item/13039.png",
+        "rate": 4
+      },
+      {
+        "name": "tournament_shield",
+        "img": "http://db.irowiki.org/image/item/2133.png",
+        "rate": 2
+      },
+      {
+        "name": "bone_head",
+        "img": "http://db.irowiki.org/image/item/5398.png",
+        "rate": 1
+      },
+      {
+        "name": "unicorn_horn",
+        "img": "http://db.irowiki.org/image/item/2257.png",
+        "rate": 0.21
+      }
+    ],
+    "maps": [],
+    "skills": [
+      {
+        "level": 1,
+        "name": "area_stun"
+      },
+      {
+        "level": 1,
+        "name": "call_slave"
+      },
+      {
+        "level": 1,
+        "name": "clashing_spiral"
+      },
+      {
+        "level": 2,
+        "name": "dragon_fear"
+      },
+      {
+        "level": 3,
+        "name": "earth_spike"
+      },
+      {
+        "level": 2,
+        "name": "earthquake"
+      },
+      {
+        "level": 2,
+        "name": "fatal_wound"
+      },
+      {
+        "level": 1,
+        "name": "ganbantein"
+      },
+      {
+        "level": 1,
+        "name": "life_stream"
+      },
+      {
+        "level": 10,
+        "name": "provoke"
+      },
+      {
+        "level": 3,
+        "name": "stone_skin"
+      },
+      {
+        "level": 1,
+        "name": "summon_slave"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 10,
+        "name": "twohand_quicken"
+      },
+      {
+        "level": 10,
+        "name": "water_ball"
+      }
+    ],
+    "category": "boss"
+  },
+  {
+    "id": 1991,
+    "name": "tendrilrion",
+    "display_name": "Tendrilrion",
+    "image": "http://db.irowiki.org/image/monster/1991.png",
+    "race": "brute",
+    "size": "medium",
+    "element": "earth 2",
+    "level": "113",
+    "hp": "3,657,330",
+    "attack": "20,000 ~ 24,000 (2)",
+    "drops": [
+      {
+        "name": "horn_of_tendrilion",
+        "img": "http://db.irowiki.org/image/item/6033.png",
+        "rate": 90
+      },
+      {
+        "name": "tough_vines",
+        "img": "http://db.irowiki.org/image/item/7197.png",
+        "rate": 53.35
+      },
+      {
+        "name": "stiff_horn",
+        "img": "http://db.irowiki.org/image/item/7008.png",
+        "rate": 48.51
+      },
+      {
+        "name": "fur",
+        "img": "http://db.irowiki.org/image/item/6020.png",
+        "rate": 40
+      },
+      {
+        "name": "eraser",
+        "img": "http://db.irowiki.org/image/item/1637.png",
+        "rate": 1
+      },
+      {
+        "name": "death_guidance",
+        "img": "http://db.irowiki.org/image/item/1186.png",
+        "rate": 1
+      },
+      {
+        "name": "leather_of_tendrilion",
+        "img": "http://db.irowiki.org/image/item/2544.png",
+        "rate": 5
+      }
+    ],
+    "maps": [],
+    "skills": [
+      {
+        "level": 3,
+        "name": "consecutive_attack"
+      },
+      {
+        "level": 1,
+        "name": "critical_slash"
+      },
+      {
+        "level": 2,
+        "name": "dragon_fear"
+      },
+      {
+        "level": 4,
+        "name": "earth_attack"
+      },
+      {
+        "level": 3,
+        "name": "earth_spike"
+      },
+      {
+        "level": 2,
+        "name": "fatal_wound"
+      },
+      {
+        "level": 1,
+        "name": "fiber_lock"
+      },
+      {
+        "level": 1,
+        "name": "ganbantein"
+      },
+      {
+        "level": 1,
+        "name": "life_stream"
+      },
+      {
+        "level": 5,
+        "name": "magnum_break"
+      },
+      {
+        "level": 10,
+        "name": "provoke"
+      },
+      {
+        "level": 1,
+        "name": "snap"
+      },
+      {
+        "level": 10,
+        "name": "sonic_blow"
+      },
+      {
+        "level": 1,
+        "name": "teleport"
+      },
+      {
+        "level": 1,
+        "name": "wide_bleed"
+      },
+      {
+        "level": 1,
+        "name": "wide_sleep"
+      }
+    ],
+    "category": "boss"
+  }
+]

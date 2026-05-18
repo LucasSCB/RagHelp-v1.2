@@ -1,0 +1,1264 @@
+[
+  {
+    "id": 501,
+    "name": "red_potion",
+    "display_name": "Red Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/501.png",
+    "description": "A potion made from grinded Red Herbs that restores about 45 HP.",
+    "effects": []
+  },
+  {
+    "id": 502,
+    "name": "orange_potion",
+    "display_name": "Orange Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/502.png",
+    "description": "A potion made from grinded Red and Yellow Herbs that restores about 105 HP. ",
+    "effects": []
+  },
+  {
+    "id": 503,
+    "name": "yellow_potion",
+    "display_name": "Yellow Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/503.png",
+    "description": "A potion made from grinded Yellow Herbs that restores about 175 HP.",
+    "effects": []
+  },
+  {
+    "id": 504,
+    "name": "white_potion",
+    "display_name": "White Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/504.png",
+    "description": "A potion made from grinded White Herbs that restores about 325 HP.",
+    "effects": []
+  },
+  {
+    "id": 505,
+    "name": "blue_potion",
+    "display_name": "Blue Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/505.png",
+    "description": "A potion made from grinded Blue Herbs that restores about 60 SP.",
+    "effects": []
+  },
+  {
+    "id": 506,
+    "name": "green_potion",
+    "display_name": "Green Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/506.png",
+    "description": "A potion which cures Poison, Silence, Blind and Chaos effects.",
+    "effects": [
+      "Cures the user of [Blind], [Confusion], [Poison] and [Silence] statuses."
+    ]
+  },
+  {
+    "id": 545,
+    "name": "condensed_red_potion",
+    "display_name": "Condensed Red Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/545.png",
+    "description": "A condensed red potion.",
+    "effects": []
+  },
+  {
+    "id": 546,
+    "name": "condensed_yellow_potion",
+    "display_name": "Condensed Yellow Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/546.png",
+    "description": "A condensed yellow potion.",
+    "effects": []
+  },
+  {
+    "id": 547,
+    "name": "condensed_white_potion",
+    "display_name": "Condensed White Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/547.png",
+    "description": " A condensed white potion that weighs significantly less.",
+    "effects": []
+  },
+  {
+    "id": 548,
+    "name": "cheese",
+    "display_name": "Cheese",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/548.png",
+    "description": "A palatable food with a unique scent that restores a small amount of SP.",
+    "effects": []
+  },
+  {
+    "id": 549,
+    "name": "yam",
+    "display_name": "Yam",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/549.png",
+    "description": "A kind of plant root used as food that restores a great amount of HP. It's advised to eat this slowly with water, or to bake it beforehand.",
+    "effects": []
+  },
+  {
+    "id": 569,
+    "name": "novice_potion",
+    "display_name": "Novice Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/569.png",
+    "description": "An exclusive red potion for Novices!",
+    "effects": []
+  },
+  {
+    "id": 576,
+    "name": "prickly_fruit",
+    "display_name": "Prickly Fruit",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/576.png",
+    "description": "A freshly scented, thorny fruit from a tree that restores a small amount of HP and SP.",
+    "effects": []
+  },
+  {
+    "id": 587,
+    "name": "red_prickly_fruit",
+    "display_name": "Red Prickly Fruit",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/587.png",
+    "description": "A freshly scented, thorny fruit from a tree that restores a small amount of HP and SP.",
+    "effects": []
+  },
+  {
+    "id": 1093,
+    "name": "empty_potion_bottle",
+    "display_name": "Empty Potion Bottle",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/1093.png",
+    "description": "An empty bottle that can be used to contain potions.",
+    "effects": []
+  },
+  {
+    "id": 1268,
+    "name": "beast_claw_1",
+    "display_name": "Beast Claw 1",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/1268.png",
+    "description": "A katar made of a huge beast. Striked enemy can not recover from the made damage.",
+    "effects": [
+      "Adds a 10% chance of using [Fatal Wound] Lv 1 on the target when performing a physical attack.",
+      "If upgrade level is +9 or higher, Lv 2 [Fatal Wound] will be cast instead."
+    ]
+  },
+  {
+    "id": 1630,
+    "name": "release_of_wish",
+    "display_name": "Release Of Wish",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/1630.png",
+    "description": "A staff made of Crystal. It shines beautifully against the light. This staff can also help the holder recover from damage.",
+    "effects": [
+      "Increases the recovery power of the user's healing skills 5%.",
+      "Adds a 10% chance for when dealing magic damage, the user will have 100 HP and 50 SP restored every 2 seconds for 10 seconds."
+    ]
+  },
+  {
+    "id": 2391,
+    "name": "life_link_1",
+    "display_name": "Life Link 1",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/2391.png",
+    "description": "A holy armor made by the Goddess in order to cure the chosen warrior.  Increases the speed of natural recovery of the wearer.",
+    "effects": []
+  },
+  {
+    "id": 5457,
+    "name": "moon_rabbit_hat_1",
+    "display_name": "Moon Rabbit Hat 1",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/5457.png",
+    "description": "This headgear is a reward for helping the Moon Rabbits recover their runaway rice cake during the Hangawi Moon Festival.",
+    "effects": [
+      "MAtk +5%",
+      {
+        "combo": [
+          "For each upgrade past +5",
+          "Atk +1MAtk +1%"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5674,
+    "name": "piggie_bank",
+    "display_name": "Piggie Bank",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/5674.png",
+    "description": "A good place to store spare change. You never know when you might need zeny here or there for a potion.",
+    "effects": [
+      "Enables the use of [Overcharge] Lv 2."
+    ]
+  },
+  {
+    "id": 6285,
+    "name": "how_to_make_high_quality_potion",
+    "display_name": "How To Make High Quality Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/6285.png",
+    "description": "This is the manual book for producing Enriched White PotionZ, vitata500, Enriched cell juice.Enriched White PotionZ : Empty Test Tube 10 + white potion 20 + white herb 10 + Alcohol 1Vitata 500 : Empty Test Tube 10 + grape 10 + honey 10 + Blue Herb 10Concentrated Juice : Empty Test Tube 10 + Awakening Potion 5 + Intensive Potion 5 + Hot Sauce 5Cure Landscape : Empty Test Tube 10 + elixir 5 + Green Herbs 20 + Mastela Fruit 1 + Yggdrasil Leaf 1",
+    "effects": []
+  },
+  {
+    "id": 6559,
+    "name": "eye_drops",
+    "display_name": "Eye Drops",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/6559.png",
+    "description": "A potion good for dried eyes. 5ml size.",
+    "effects": []
+  },
+  {
+    "id": 6740,
+    "name": "recovery_stone_slot_1",
+    "display_name": "Recovery Stone Slot 1",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/6740.png",
+    "description": "A stone which increases recovery amount. Gives below stats to Costume slot 1.",
+    "effects": [
+      "If upgrade level is +9 or higher,"
+    ]
+  },
+  {
+    "id": 6741,
+    "name": "recovery_skill_stone_slot_1",
+    "display_name": "Recovery Skill Stone Slot 1",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/6741.png",
+    "description": "A stone which makes to use recovery skills well.",
+    "effects": [
+      "Increases the recovery rate of recovery skills by 3%."
+    ]
+  },
+  {
+    "id": 6742,
+    "name": "recovery_stone_slot_2",
+    "display_name": "Recovery Stone Slot 2",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/6742.png",
+    "description": "A stone which makes good recovery power. Gives below stats on Costume slot 2",
+    "effects": [
+      "If upgrade level is +9 or higher,"
+    ]
+  },
+  {
+    "id": 7133,
+    "name": "condensed_potion_creation_guide",
+    "display_name": "Condensed Potion Creation Guide",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/7133.png",
+    "description": "A book with instructions for creating Condensed Potions.",
+    "effects": []
+  },
+  {
+    "id": 7144,
+    "name": "potion_creation_gude",
+    "display_name": "Potion Creation Gude",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/7144.png",
+    "description": "A book that describes how to create potions.",
+    "effects": []
+  },
+  {
+    "id": 7292,
+    "name": "muscovite",
+    "display_name": "Muscovite",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/7292.png",
+    "description": "A silicate mineral which has a pearly luster. Symbolizes recovery of motivation.",
+    "effects": []
+  },
+  {
+    "id": 7434,
+    "name": "elemental_potion_creation_guide",
+    "display_name": "Elemental Potion Creation Guide",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/7434.png",
+    "description": "A book with the tagline, \"Even Porings can make Elemental Potions with this book!\" on the cover. The methods for creating Elemental Potions are detailed inside this book.Author: Pisrik Quve.",
+    "effects": []
+  },
+  {
+    "id": 9062,
+    "name": "novice_poring_egg",
+    "display_name": "Novice Poring Egg",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/9062.png",
+    "description": "A novie poring is sleeping inside. Use  to wake this monster. Extra 50% HP recovery rate when pet parameter is in or more than [Friendly].",
+    "effects": []
+  },
+  {
+    "id": 9101,
+    "name": "portable_cage_for_scatleton",
+    "display_name": "Portable Cage For Scatleton",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/9101.png",
+    "description": " A cage in which a cute Scatleton pet rests. It can be lured out using a [Pet Incubator].Diet: [Fresh Fish]Summoned Bonus\nIncreases the recovery rate of [Fresh Fish] consumables by 100%.",
+    "effects": [
+      "While Summoned  Increases the recovery rate of Fresh Fish consumables by 1031%."
+    ]
+  },
+  {
+    "id": 9113,
+    "name": "skelion_egg",
+    "display_name": "Skelion Egg",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/9113.png",
+    "description": " An egg in which a cute Skelion pet rests. This can be hatched using a [Pet Incubator].Diet: [Yummy Meat]Summoned Bonus\nIncreases the recovery rate of [Fresh Fish] consumables by 100%. ",
+    "effects": [
+      "While Summoned Increases the recovery rate of [Fresh Fish] consumables by 100%."
+    ]
+  },
+  {
+    "id": 11502,
+    "name": "light_blue_potion",
+    "display_name": "Light Blue Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11502.png",
+    "description": "A potion made from grinded Blue Herbs that restores about 60 SP.",
+    "effects": []
+  },
+  {
+    "id": 11503,
+    "name": "wo_e_white_potion",
+    "display_name": "Wo E White Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11503.png",
+    "description": "A White Potion which weighs less than normal.",
+    "effects": []
+  },
+  {
+    "id": 11504,
+    "name": "wo_e_blue_potion",
+    "display_name": "Wo E Blue Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11504.png",
+    "description": "A Blue Potion which weighs less than normal.",
+    "effects": []
+  },
+  {
+    "id": 11513,
+    "name": "throat_lozenge",
+    "display_name": "Throat Lozenge",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11513.png",
+    "description": "A fresh candy for sore throats. A very small amount of HP recovery. ",
+    "effects": []
+  },
+  {
+    "id": 11516,
+    "name": "asai_fruit",
+    "display_name": "Asai Fruit",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11516.png",
+    "description": "A famous berry used in Brasilis deserts. It is made into ice-cream or juice during the hot summer months. Recover small amount HP.",
+    "effects": []
+  },
+  {
+    "id": 11517,
+    "name": "purification_potion",
+    "display_name": "Purification Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11517.png",
+    "description": "A potion that has a special effect.",
+    "effects": []
+  },
+  {
+    "id": 11538,
+    "name": "fresh_octopus_leg",
+    "display_name": "Fresh Octopus Leg",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11538.png",
+    "description": "Fresh Octopus leg. So fresh it is wiggling itself. Very tasty when just eating raw. Minor recovery of HP, SP.Item will vanish after the event period.",
+    "effects": []
+  },
+  {
+    "id": 11548,
+    "name": "wo_e_white_potion",
+    "display_name": "Wo E White Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11548.png",
+    "description": "The youngest leaves of the white organic herb are used to make this potion.",
+    "effects": [
+      {
+        "combo": [
+          "Status during WoE & PvP",
+          "Restores 10% of Max HP"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11549,
+    "name": "wo_e_blue_potion",
+    "display_name": "Wo E Blue Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11549.png",
+    "description": "The freshest blue organic herbs are used to make this potion.",
+    "effects": [
+      {
+        "combo": [
+          "Status during WoE & PvP",
+          "Restores 10% of Max SP"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11550,
+    "name": "pumpkin_cake",
+    "display_name": "Pumpkin Cake",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11550.png",
+    "description": "A cake made with smashed moist pumpkin. Recovers 5% of HP and SP.",
+    "effects": []
+  },
+  {
+    "id": 11557,
+    "name": "te_white_potion",
+    "display_name": "Te White Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11557.png",
+    "description": "Only available to use in the WoE TE zone. A health potion that is made up of ground white herbs.",
+    "effects": [
+      {
+        "combo": [
+          "Extra option available in WoE TE area",
+          "Restores 325 of HP"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11558,
+    "name": "te_white_slim_potion",
+    "display_name": "Te White Slim Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11558.png",
+    "description": "Only available to use in the WoE TE zone. Provides the same effects as TE White Potion, but this potion is lighter in weight.",
+    "effects": [
+      {
+        "combo": [
+          "Extra option available in WoE TE area",
+          "Restores 325 of HP"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11572,
+    "name": "jolly_blue_potion",
+    "display_name": "Jolly Blue Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11572.png",
+    "description": "A potion made from ground Blue Herbs that restores about 60 SP.",
+    "effects": []
+  },
+  {
+    "id": 11573,
+    "name": "jolly_condensed_white_potion",
+    "display_name": "Jolly Condensed White Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11573.png",
+    "description": "A condensed White Potion that weighs less.",
+    "effects": []
+  },
+  {
+    "id": 11583,
+    "name": "jolly_chocolate_drink",
+    "display_name": "Jolly Chocolate Drink",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11583.png",
+    "description": "A kind of drink made from chocolate and milk from one of the Royal Court Dessert Specialist's recipes. Although the Dessert Chef wishes for people to drink this treat elegantly, it's usually gulped down, enjoyed with hands sloppily placed on the waist.Restores 330 ~ 410 HPRestores 45 ~ 65 SP",
+    "effects": []
+  },
+  {
+    "id": 11592,
+    "name": "trans_candy_red",
+    "display_name": "Trans Candy Red",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11592.png",
+    "description": "Recover 45 HP.",
+    "effects": [
+      "Transforms into Bloody Murderer for 10 minutes.",
+      "MHP + 1000 while shapeshifting."
+    ]
+  },
+  {
+    "id": 11593,
+    "name": "trans_candy_blue",
+    "display_name": "Trans Candy Blue",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11593.png",
+    "description": "Recover 45 HP.",
+    "effects": [
+      "Transforms into Bathory for 10 minutes.",
+      "MSP + 100 while shapeshifting."
+    ]
+  },
+  {
+    "id": 11594,
+    "name": "trans_candy_yellow",
+    "display_name": "Trans Candy Yellow",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11594.png",
+    "description": "Recover 45 HP.",
+    "effects": [
+      "Transforms into Jack for 10 minutes.",
+      "Recovery effect increase for 2000% when consuming \"Pumpkin\" while shapeshifting."
+    ]
+  },
+  {
+    "id": 11595,
+    "name": "trans_candy_green",
+    "display_name": "Trans Candy Green",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11595.png",
+    "description": "Recover 45 HP.",
+    "effects": [
+      "Transforms into Quve for 10 minutes.",
+      "HIT + 10, FLEE + 20 while shapeshifting."
+    ]
+  },
+  {
+    "id": 11601,
+    "name": "delicious_anchovy",
+    "display_name": "Delicious Anchovy",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/11601.png",
+    "description": "A saltwater fish of the family Engraulidae. This small fish has a dark blue back and a silvery white belly, and the catches off the coast of Lasagna are considered to be the best. It recovers a small amount of HP.",
+    "effects": [
+      "Restores 30 to 46 HP."
+    ]
+  },
+  {
+    "id": 12016,
+    "name": "speed_potion",
+    "display_name": "Speed Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12016.png",
+    "description": "A potion which increases the moving speed of a character for a duration.",
+    "effects": [
+      "Greatly increases the user's movement speed for 5 seconds."
+    ]
+  },
+  {
+    "id": 12017,
+    "name": "slow_potion",
+    "display_name": "Slow Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12017.png",
+    "description": "A potion which decreases the moving speed of a character for a duration.",
+    "effects": [
+      "Greatly decreases the user's movement speed for 5 seconds."
+    ]
+  },
+  {
+    "id": 12110,
+    "name": "first_aid_kit",
+    "display_name": "First Aid Kit",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12110.png",
+    "description": "A first aid kit that should contain potions, although they're known to hold other thingsâ€¦",
+    "effects": [
+      "Gives a random potion type item."
+    ]
+  },
+  {
+    "id": 12118,
+    "name": "fireproof_potion",
+    "display_name": "Fireproof Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12118.png",
+    "description": "A potion that will temporarily increase the user's resistance to the Fire property at the cost of increasing damage from the Water property for the potion's active duration.",
+    "effects": [
+      {
+        "combo": [
+          "For 20 minutes",
+          "Reduces damage received from [Fire] element attacks by 20%.Increases damage received from [Water] element attacks by 15%."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12119,
+    "name": "coldproof_potion",
+    "display_name": "Coldproof Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12119.png",
+    "description": "A potion that will temporarily increase the user's resistance to the Water property at the cost of increasing damage from the Wind property for the potion's active duration.",
+    "effects": [
+      {
+        "combo": [
+          "For 20 minutes",
+          "Reduces damage received from [Water] element attacks by 20%.Increases damage received from [Wind] element attacks by 15%."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12120,
+    "name": "earthproof_potion",
+    "display_name": "Earthproof Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12120.png",
+    "description": "A potion that will temporarily increase the user's resistance to the Earth property at the cost of increasing damage from the Fire property for the potion's active duration.",
+    "effects": [
+      {
+        "combo": [
+          "For 20 minutes",
+          "Reduces damage received from [Earth] element attacks by 20%.Increases damage received from [Fire] element attacks by 15%."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12121,
+    "name": "thunderproof_potion",
+    "display_name": "Thunderproof Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12121.png",
+    "description": "A potion that will temporarily increase the user's resistance to the Wind property at the cost of increasing damage from the Earth property for the potion's active duration.",
+    "effects": [
+      {
+        "combo": [
+          "For 20 minutes",
+          "Reduces damage received from [Wind] element attacks by 20%.Increases damage received from [Earth] element attacks by 15%."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12184,
+    "name": "mercenary_red_potion",
+    "display_name": "Mercenary Red Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12184.png",
+    "description": "An HP Potion provided by the Mercenary Guild that can only be used for Mercenaries; it cannot restore HP for players.",
+    "effects": [
+      "Restores the hired mercenary's HP by 1000, increased by their stats."
+    ]
+  },
+  {
+    "id": 12185,
+    "name": "mercenary_blue_potion",
+    "display_name": "Mercenary Blue Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12185.png",
+    "description": "An SP Potion provided by the Mercenary Guild that can only be used for Mercenaries; it cannot restore SP for players.",
+    "effects": [
+      "Restores the hired mercenary's SP by 100, increased by their stats."
+    ]
+  },
+  {
+    "id": 12200,
+    "name": "event_cake",
+    "display_name": "Event Cake",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12200.png",
+    "description": "A Christmas cake that is only available during the Christmas season. Automatically casts Lv.3 Magnificat and restores a small amount of HP.",
+    "effects": []
+  },
+  {
+    "id": 12241,
+    "name": "mercenary_concentration_potion",
+    "display_name": "Mercenary Concentration Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12241.png",
+    "description": "A Concentration Potion for Mercenaries that slightly increases Attack Speed.",
+    "effects": [
+      "Increases the hired mercenary's Aspd by 10% for the rest of the contract."
+    ]
+  },
+  {
+    "id": 12242,
+    "name": "mercenary_awakening_potion",
+    "display_name": "Mercenary Awakening Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12242.png",
+    "description": "n Awakening Potion for Mercenaries that increases Attack Speed.",
+    "effects": [
+      "Increases the hired mercenary's Aspd by 15% for the rest of the contract."
+    ]
+  },
+  {
+    "id": 12243,
+    "name": "mercenary_berserk_potion",
+    "display_name": "Mercenary Berserk Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12243.png",
+    "description": "A Berserk Potion for Mercenaries that greatly increases Attack Speed.",
+    "effects": [
+      "Increases the hired mercenary's Aspd by 20% for the rest of the contract."
+    ]
+  },
+  {
+    "id": 12349,
+    "name": "cornus_tears",
+    "display_name": "Cornus Tears",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12349.png",
+    "description": "Potion made out of Cornus' Tears. You never know how they obtain the tear drops.",
+    "effects": [
+      "Increases magic damage against the Tendrilrion, Cornus, Naga, Luciola Vespa and Pinguicula monsters by 10% for 10 minutes."
+    ]
+  },
+  {
+    "id": 12392,
+    "name": "repair_a",
+    "display_name": "Repair A",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12392.png",
+    "description": "Restores a certain amount of HP to Magic Gear",
+    "effects": []
+  },
+  {
+    "id": 12393,
+    "name": "repair_b",
+    "display_name": "Repair B",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12393.png",
+    "description": "Restores a proper amount of HP to Magic Gear",
+    "effects": []
+  },
+  {
+    "id": 12394,
+    "name": "repair_c",
+    "display_name": "Repair C",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12394.png",
+    "description": "Restores HP to Magic Gear",
+    "effects": []
+  },
+  {
+    "id": 12418,
+    "name": "full_swing_k",
+    "display_name": "Full Swing K",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12418.png",
+    "description": "A potion that increases Atk a little. Duration : 500 sec",
+    "effects": []
+  },
+  {
+    "id": 12419,
+    "name": "mana",
+    "display_name": "Mana",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12419.png",
+    "description": "A potion that increases Matk a little. Duration : 500 sec.",
+    "effects": []
+  },
+  {
+    "id": 12422,
+    "name": "hp_increase_potion_small",
+    "display_name": "Hp Increase Potion Small",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12422.png",
+    "description": "A small potion that increases MaxHP.",
+    "effects": [
+      "Max HP increased by 500 + (10/3)*[Base Level] for 500 seconds.",
+      "Restores 1% of the user's max HP"
+    ]
+  },
+  {
+    "id": 12423,
+    "name": "hp_increase_potion_mid",
+    "display_name": "Hp Increase Potion Mid",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12423.png",
+    "description": "A potion that increases MaxHP.",
+    "effects": [
+      "Max HP increased by 1500 + (10/3)*[Base Level] for 500 seconds.",
+      "Restores 2% of the user's max HP"
+    ]
+  },
+  {
+    "id": 12424,
+    "name": "hp_increase_potion_large",
+    "display_name": "Hp Increase Potion Large",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12424.png",
+    "description": "A big potion that increases MaxHP.",
+    "effects": [
+      "Max HP increased by 2500 + (10/3)*[Base Level] for 500 seconds.",
+      "Restores 5% of the user's max HP"
+    ]
+  },
+  {
+    "id": 12425,
+    "name": "sp_increase_potion_small",
+    "display_name": "Sp Increase Potion Small",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12425.png",
+    "description": "A small potion that increases MaxSP.",
+    "effects": [
+      "Max SP increased by ([Base Level/10] - 5)% for 500 seconds.",
+      "Restores 2% of the user's max SP."
+    ]
+  },
+  {
+    "id": 12426,
+    "name": "sp_increase_potion_mid",
+    "display_name": "Sp Increase Potion Mid",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12426.png",
+    "description": "A potion that increases MaxSP.",
+    "effects": [
+      "Max SP increased by [Base Level/10]% for 500 seconds.",
+      "Restores 4% of the user's max SP."
+    ]
+  },
+  {
+    "id": 12427,
+    "name": "sp_increase_potion_large",
+    "display_name": "Sp Increase Potion Large",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12427.png",
+    "description": "A big potion that increases MaxSP.",
+    "effects": [
+      "Max SP increased by ([Base Level/10] + 5)% for 500 seconds.",
+      "Restores 8% of the user's max SP."
+    ]
+  },
+  {
+    "id": 12428,
+    "name": "enriched_white_potion_z",
+    "display_name": "Enriched White Potion Z",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12428.png",
+    "description": "Recovers a large amount of HP.",
+    "effects": [
+      "HP Recovery Rate +20% for 500 seconds.",
+      "Restores fixed 1,000 HP, unaffected by [Fatal Wound], [Increase HP Recovery], or Vit."
+    ]
+  },
+  {
+    "id": 12436,
+    "name": "vitata500",
+    "display_name": "Vitata500",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12436.png",
+    "description": "Recovers SP, natural SP natural speed increased by 20% and MaxSP increased by 5%. Duration : 500 sec.",
+    "effects": [
+      "SP Recovery Rate +20% for 500 seconds.",
+      "Max SP increased by 5% for 500 seconds.",
+      "Restores fixed 200 SP, unaffected by [Increase SP Recovery] or Int."
+    ]
+  },
+  {
+    "id": 12475,
+    "name": "cure_free",
+    "display_name": "Cure Free",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12475.png",
+    "description": "Recovers several kinds of abnormal statuses. Recovers small amount of HP.",
+    "effects": [
+      "Cures the user of [Silence], [Bleeding], [Poison], [Curse], [Reverse Orcish], and [Change Undead] statuses.",
+      "Restores fixed 500 HP, unaffected by [Fatal Wound], [Increase HP Recovery], or Vit."
+    ]
+  },
+  {
+    "id": 12537,
+    "name": "gift_chocolate_basket",
+    "display_name": "Gift Chocolate Basket",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12537.png",
+    "description": "Beautifully wrapped gift basket filled with goodies to share. Bring these to the Lucky Dogg at Eden Group and exchange it for 75 Prize Medals. Lucky Dogg will stay to take your baskets until April 17th.  Opening it will give you the following: -5x Lovely Choco-Tart - restores an average amount of HP -3x Cute Strawberry-Choco -restores an average amount of SP -4x Chocolate Drink -Restores a high amount of HP and a low amount of SP -10x Hand-made Chocolate -restores 50hp/50sp -10x Handmade White Chocolate -restores 50hp/50sp",
+    "effects": []
+  },
+  {
+    "id": 12719,
+    "name": "oblivion_curse",
+    "display_name": "Oblivion Curse",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12719.png",
+    "description": " An ash powder that causes the Oblivion state. Oblivion lasts for 300 seconds. If under Oblivion state, SP doesn't recover naturally and cannot be canceled by Lex Divine or Green Potion. You cannot use skills while caught by Oblivion ashes.",
+    "effects": []
+  },
+  {
+    "id": 12720,
+    "name": "death_hurt",
+    "display_name": "Death Hurt",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12720.png",
+    "description": "A poison that pollutes a wound. When a target is caught by this poison for 300 seconds, recovery skills decrease in effect by 20%. The poison is extra potent if also inflicted by fatal wound.",
+    "effects": []
+  },
+  {
+    "id": 12873,
+    "name": "te_potion_box",
+    "display_name": "Te Potion Box",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12873.png",
+    "description": "Contains 10 TE White Slim Potion.",
+    "effects": []
+  },
+  {
+    "id": 12876,
+    "name": "elf_tear_stun",
+    "display_name": "Elf Tear Stun",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12876.png",
+    "description": "The first-class pharmacist Vincent has created this potion. Endows superhuman strength, though it's only temporary.",
+    "effects": [
+      "Instantly consumes 3,000 of your HP and in return, immunizes you against Stun for 10 seconds."
+    ]
+  },
+  {
+    "id": 12877,
+    "name": "elf_tear_stone_curse",
+    "display_name": "Elf Tear Stone Curse",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12877.png",
+    "description": "The first-class pharmacist Vincent has created this potion. Endows superhuman strength, though it's only temporary.",
+    "effects": [
+      "Instantly consumes 3,000 of your HP and in return, immunizes you against Petrification for 10 seconds."
+    ]
+  },
+  {
+    "id": 12878,
+    "name": "elf_tear_freezing",
+    "display_name": "Elf Tear Freezing",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12878.png",
+    "description": "The first-class pharmacist Vincent has created this potion. Endows superhuman strength, though it's only temporary.",
+    "effects": [
+      "Instantly consumes 3,000 of your HP and in return, immunizes you against Frost for 10 seconds."
+    ]
+  },
+  {
+    "id": 12879,
+    "name": "elf_tear_sleep",
+    "display_name": "Elf Tear Sleep",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12879.png",
+    "description": "The first-class pharmacist Vincent has created this potion. Endows superhuman strength, though it's only temporary.",
+    "effects": [
+      "Instantly consumes 3,000 of your HP and in return, immunizes you against Sleep for 10 seconds."
+    ]
+  },
+  {
+    "id": 12880,
+    "name": "elf_tear_curse",
+    "display_name": "Elf Tear Curse",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12880.png",
+    "description": "The first-class pharmacist Vincent has created this potion. Endows superhuman strength, though it's only temporary.",
+    "effects": [
+      "Instantly consumes 3,000 of your HP and in return, immunizes you against Curse for 10 seconds."
+    ]
+  },
+  {
+    "id": 12881,
+    "name": "elf_tear_silence",
+    "display_name": "Elf Tear Silence",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12881.png",
+    "description": "The first-class pharmacist Vincent has created this potion. Endows superhuman strength, though it's only temporary.",
+    "effects": [
+      "Instantly consumes 3,000 of your HP and in return, immunizes you against Silence for 10 seconds."
+    ]
+  },
+  {
+    "id": 12882,
+    "name": "elf_tear_darkness",
+    "display_name": "Elf Tear Darkness",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/12882.png",
+    "description": "The first-class pharmacist Vincent has created this potion. Endows superhuman strength, though it's only temporary.",
+    "effects": [
+      "Instantly consumes 3,000 of your HP and in return, immunizes you against Blind for 10 seconds."
+    ]
+  },
+  {
+    "id": 13272,
+    "name": "cure_free_throw",
+    "display_name": "Cure Free Throw",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13272.png",
+    "description": "Slightly remodeled Cure Free enabled for throwing. Recovers several kinds of abnormal statuses. Recovers a small amount of HP.(Cures: Silence, Bleeding, Poison, Curse, Reverse Orcish, Change Undead)",
+    "effects": []
+  },
+  {
+    "id": 13275,
+    "name": "hp_increase_potion_small_throw",
+    "display_name": "Hp Increase Potion Small Throw",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13275.png",
+    "description": "Slightly remodeled HP increase potion(S) enabled for throwing. MaxHP slightly increased for 500 sec, HP recovery +1%.",
+    "effects": []
+  },
+  {
+    "id": 13276,
+    "name": "hp_increase_potion_mid_throw",
+    "display_name": "Hp Increase Potion Mid Throw",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13276.png",
+    "description": "Slightly remodeled HP increase potion(M) enabled for throwing. MaxHP moderately increased for 500 sec, HP recovery +2%.",
+    "effects": []
+  },
+  {
+    "id": 13277,
+    "name": "hp_increase_potion_large_throw",
+    "display_name": "Hp Increase Potion Large Throw",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13277.png",
+    "description": "Slightly remodeled HP increase potion(L) enabled for throwing. MaxHP greatly increased for 500 sec, HP recovery +5%.",
+    "effects": []
+  },
+  {
+    "id": 13278,
+    "name": "hp_increase_potion_small_throw",
+    "display_name": "Hp Increase Potion Small Throw",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13278.png",
+    "description": "Slightly remodeled SP Increase Potion(S) enabled for throwing. MaxSP slightly increased for 500 sec, SP recovery +2%.",
+    "effects": []
+  },
+  {
+    "id": 13279,
+    "name": "sp_increase_potion_mid_throw",
+    "display_name": "Sp Increase Potion Mid Throw",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13279.png",
+    "description": "Slightly remodeled SP Increase Potion(M) enabled for throwing. MaxSP increased for 500 sec, SP recovery +4%.",
+    "effects": []
+  },
+  {
+    "id": 13280,
+    "name": "sp_increase_potion_large_throw",
+    "display_name": "Sp Increase Potion Large Throw",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13280.png",
+    "description": "Slightly remodeled SP increase potion(L) enabled for throwing. MaxSP greatly increased for 500 sec, SP recovery +8%.",
+    "effects": []
+  },
+  {
+    "id": 13281,
+    "name": "enriched_white_potion_z_throw",
+    "display_name": "Enriched White Potion Z Throw",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13281.png",
+    "description": "Slightly remodeled Enriched White Potion enabled for throwing. Recovers a large amount of HP, increases natural HP recovery speed by 20%. Duration : 500 sec.",
+    "effects": []
+  },
+  {
+    "id": 13282,
+    "name": "vitata50_throw",
+    "display_name": "Vitata50 Throw",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13282.png",
+    "description": "Slightly remodeled Vitata 500 enabled for throwing. Recovers SP, and increase SP recovery speed by 20%, increase MaxSP by 5%. Duration : 500 sec.",
+    "effects": []
+  },
+  {
+    "id": 13642,
+    "name": "start_your_journey_pack",
+    "display_name": "Start Your Journey Pack",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13642.png",
+    "description": "The Start your Journey Pack contains several items that will allow you move around Rune Midgard kingdom's cities so you can complete your job change quest quickly, get more exp for 30 minutes, and keep yourself heal during early adventure battles. Also 20 Red Envelopes are given to help you get that last little bit of experience needed for that next level. Contains:20 Red Envelopes200 Novice Red Potions1 Battle Manual3 Rune Midgard Butterfly Wings",
+    "effects": []
+  },
+  {
+    "id": 13711,
+    "name": "small_life_potion_10_box",
+    "display_name": "Small Life Potion 10 Box",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13711.png",
+    "description": "A box that contains 10 Small Life Potions.",
+    "effects": [
+      "Gives Small Life Potion x10."
+    ]
+  },
+  {
+    "id": 13714,
+    "name": "medium_life_potion_10_box",
+    "display_name": "Medium Life Potion 10 Box",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13714.png",
+    "description": "A box that contains 10 Medium Life Potions.",
+    "effects": [
+      "Gives Medium Life Potion x10."
+    ]
+  },
+  {
+    "id": 13719,
+    "name": "regeneration_potion_5_box",
+    "display_name": "Regeneration Potion 5 Box",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13719.png",
+    "description": "A box that contains 5 Regeneration Potions.",
+    "effects": [
+      "Gives Regeneration Potion x5."
+    ]
+  },
+  {
+    "id": 13746,
+    "name": "small_defense_potion_10_box",
+    "display_name": "Small Defense Potion 10 Box",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13746.png",
+    "description": "A box that contains 10 Small Defense Potions.",
+    "effects": [
+      "Gives Small Defense Potion x10."
+    ]
+  },
+  {
+    "id": 13749,
+    "name": "big_defense_potion_10_box",
+    "display_name": "Big Defense Potion 10 Box",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13749.png",
+    "description": "A box that contains 10 Big Defense Potions.",
+    "effects": [
+      "Gives Big Defense Potion x10."
+    ]
+  },
+  {
+    "id": 13752,
+    "name": "small_magic_defense_potion_10_box",
+    "display_name": "Small Magic Defense Potion 10 Box",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13752.png",
+    "description": "A box that contains 10 Small Magic Defense Potions.",
+    "effects": [
+      "Gives Small Magic Defense Potion x10."
+    ]
+  },
+  {
+    "id": 13755,
+    "name": "big_magic_defense_potion_10_box",
+    "display_name": "Big Magic Defense Potion 10 Box",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13755.png",
+    "description": "A box that contains 10 Big Magic Defense Potions.",
+    "effects": [
+      "Gives Big Magic Defense Potion x10."
+    ]
+  },
+  {
+    "id": 13810,
+    "name": "light_blue_potion_box",
+    "display_name": "Light Blue Potion Box",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/13810.png",
+    "description": "A box that contains 25 Light Blue Potions.",
+    "effects": []
+  },
+  {
+    "id": 14002,
+    "name": "advanced_wo_e_supply_box",
+    "display_name": "Advanced Wo E Supply Box",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/14002.png",
+    "description": "A supply box containing WoE potions.",
+    "effects": [
+      {
+        "combo": [
+          "Gives",
+          "WoE White Potion x50WoE Blue Potion x20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14537,
+    "name": "regeneration_potion",
+    "display_name": "Regeneration Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/14537.png",
+    "description": "A magic potion made with alchemy and magic.  A Rosary is rumored to be one of the secret ingredients in making this potion.",
+    "effects": [
+      "Increases the recovery rate of skills and items by 20% for 30 minutes."
+    ]
+  },
+  {
+    "id": 14541,
+    "name": "small_defense_potion",
+    "display_name": "Small Defense Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/14541.png",
+    "description": "A secret potion made using tough dragon scales.",
+    "effects": [
+      "Reduces damage received from all melee attacks by 3% for 1 minute."
+    ]
+  },
+  {
+    "id": 14542,
+    "name": "big_defense_potion",
+    "display_name": "Big Defense Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/14542.png",
+    "description": "A secret potion made using tough dragon scales.",
+    "effects": [
+      "Reduces damage received from all melee attacks by 3% for 3 minutes."
+    ]
+  },
+  {
+    "id": 14543,
+    "name": "small_magic_defense_potion",
+    "display_name": "Small Magic Defense Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/14543.png",
+    "description": "A secret potion made using pixie mustache.",
+    "effects": [
+      "Reduces damage received from all magic attacks by 3% for 1 minute."
+    ]
+  },
+  {
+    "id": 14544,
+    "name": "big_magic_defense_potion",
+    "display_name": "Big Magic Defense Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/14544.png",
+    "description": "A secret potion made using pixie mustache.",
+    "effects": [
+      "Reduces damage received from all magic attacks by 3% for 3 minutes."
+    ]
+  },
+  {
+    "id": 22621,
+    "name": "squid_bbq",
+    "display_name": "Squid Bbq",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/22621.png",
+    "description": "Aromatic and salty roasted squid. Can feel the Chef's passion and devotion in it. Recovers little HP and SP.EXP from Fish type monster increases by 25%.",
+    "effects": []
+  },
+  {
+    "id": 22686,
+    "name": "single_cookie",
+    "display_name": "Single Cookie",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/22686.png",
+    "description": "A cookie which I will eat alone in Christmas. I'm not lonely. I'm not lonely. Recover 5% of HP and SP.",
+    "effects": []
+  },
+  {
+    "id": 22971,
+    "name": "mad_bunny_scroll",
+    "display_name": "Mad Bunny Scroll",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/22971.png",
+    "description": "When opened gives the user one of the following: [Mad Bunny Special] [0][Safe to 7 Armor Certificate][Safe to 7 Headgear Certificate][Safe to 7 Weapon Certificate][Safe to 10 Certificate][STR Soul Potion][AGI Soul Potion][VIT Soul Potion][INT Soul Potion][DEX Soul Potion][LUK Soul Potion][Blacksmith's Blessing]",
+    "effects": []
+  },
+  {
+    "id": 23164,
+    "name": "granpa_speed_potion",
+    "display_name": "Granpa Speed Potion",
+    "type": "consumable",
+    "image": "http://db.irowiki.org/image/item/23164.png",
+    "description": "A potion created and distributed by 13th anniversary NPC Granpa Boxter. No matter who you race with, you will pass everyone",
+    "effects": [
+      "Greatly increases the user's movement speed for X seconds."
+    ]
+  }
+]
